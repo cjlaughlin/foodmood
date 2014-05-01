@@ -1,0 +1,816 @@
+TFoodMood
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/Info.plist /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/FoodMood-Info.plist
+cPhaseScriptExecution Copy\ www\ directory /Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Script-304B58A110DAC018002A0835.sh
+cCpResource FoodMood/Resources/icons/icon-76.png build/emulator/FoodMood.app/icon-76.png
+cCpResource FoodMood/Resources/icons/icon-40@2x.png build/emulator/FoodMood.app/icon-40@2x.png
+cCpResource FoodMood/Resources/icons/icon-72.png build/emulator/FoodMood.app/icon-72.png
+cCpResource FoodMood/Resources/icons/icon.png build/emulator/FoodMood.app/icon.png
+cCpResource FoodMood/Resources/icons/icon@2x.png build/emulator/FoodMood.app/icon@2x.png
+cCopyStringsFile /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/en.lproj/Localizable.strings FoodMood/Resources/en.lproj/Localizable.strings
+cCompileXIB /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Classes/MainViewController.xib
+cCpResource FoodMood/Resources/icons/icon-50.png build/emulator/FoodMood.app/icon-50.png
+cCpResource FoodMood/Resources/icons/icon-60@2x.png build/emulator/FoodMood.app/icon-60@2x.png
+cCopyStringsFile /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/de.lproj/Localizable.strings FoodMood/Resources/de.lproj/Localizable.strings
+cCpResource FoodMood/Resources/icons/icon-small.png build/emulator/FoodMood.app/icon-small.png
+cCpResource FoodMood/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/FoodMood.app/Default-Landscape@2x~ipad.png
+cCpResource FoodMood/Resources/splash/Default-Landscape~ipad.png build/emulator/FoodMood.app/Default-Landscape~ipad.png
+cCpResource FoodMood/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/FoodMood.app/Default-Portrait@2x~ipad.png
+cCpResource FoodMood/Resources/icons/icon-small@2x.png build/emulator/FoodMood.app/icon-small@2x.png
+cCpResource FoodMood/Resources/splash/Default-Portrait~ipad.png build/emulator/FoodMood.app/Default-Portrait~ipad.png
+cCpResource FoodMood/Resources/icons/icon-40.png build/emulator/FoodMood.app/icon-40.png
+cCpResource FoodMood/Resources/splash/Default@2x~iphone.png build/emulator/FoodMood.app/Default@2x~iphone.png
+cCpResource FoodMood/Resources/icons/icon-60.png build/emulator/FoodMood.app/icon-60.png
+cCpResource FoodMood/Resources/splash/Default~iphone.png build/emulator/FoodMood.app/Default~iphone.png
+cCpResource FoodMood/Resources/splash/Default-568h@2x~iphone.png build/emulator/FoodMood.app/Default-568h@2x~iphone.png
+cCpResource FoodMood/Resources/icons/icon-50@2x.png build/emulator/FoodMood.app/icon-50@2x.png
+cCpResource FoodMood/Resources/icons/icon-76@2x.png build/emulator/FoodMood.app/icon-76@2x.png
+cCpResource FoodMood/Resources/icons/icon-72@2x.png build/emulator/FoodMood.app/icon-72@2x.png
+cProcessPCH /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/FoodMood-Prefix-hiaiwqmjoqvkgpchcjuauuhflwvs/FoodMood-Prefix.pch.pch FoodMood/FoodMood-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Objects-normal/i386/main.o /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Objects-normal/i386/AppDelegate.o /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Objects-normal/i386/MainViewController.o /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/FoodMood normal i386
+cGenerateDSYMFile /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app.dSYM /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/FoodMood
+cTouch /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005361C65C00000000000003B4
+t1398916700
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005361C66D000000000000019E
+t1398916717
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c000000005361C66F0000000000059340
+t1398916719
+s365376
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005361C6710000000000446820
+t1398916721
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000005361C67200000000000F1A80
+t1398916722
+s989824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000005361C67700000000001BE790
+t1398916727
+s1828752
+
+N/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Classes/AppDelegate.m
+c000000005361C7BF00000000000013AB
+t1398917055
+s5035
+
+N/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Classes/MainViewController.m
+c000000005361C7BF000000000000126B
+t1398917055
+s4715
+
+N/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Classes/MainViewController.xib
+c000000005361C7BE0000000000001759
+t1398917054
+s5977
+
+N/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/FoodMood-Info.plist
+c000000005361D15E0000000000000A13
+t1398919518
+s2579
+
+N/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/FoodMood-Prefix.pch
+c000000005361C7BF00000000000003C5
+t1398917055
+s965
+
+N/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/de.lproj/Localizable.strings
+c000000005361C7BE00000000000004C0
+t1398917054
+s1216
+
+N/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/en.lproj/Localizable.strings
+c000000005361C7BE00000000000004AB
+t1398917054
+s1195
+
+N/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/icons/icon-40.png
+c000000005361C7BE0000000000000FF2
+t1398917054
+s4082
+
+N/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/icons/icon-40@2x.png
+c000000005361C7BE0000000000001CF3
+t1398917054
+s7411
+
+N/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/icons/icon-50.png
+c000000005361C7BE000000000000130A
+t1398917054
+s4874
+
+N/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/icons/icon-50@2x.png
+c000000005361C7BE000000000000258B
+t1398917054
+s9611
+
+N/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/icons/icon-60.png
+c000000005361C7BE00000000000016B3
+t1398917054
+s5811
+
+N/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/icons/icon-60@2x.png
+c000000005361C7BE0000000000002E94
+t1398917054
+s11924
+
+N/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/icons/icon-72.png
+c000000005361C7BE0000000000001350
+t1398917054
+s4944
+
+N/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/icons/icon-72@2x.png
+c000000005361C7BE0000000000002DBA
+t1398917054
+s11706
+
+N/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/icons/icon-76.png
+c000000005361C7BE0000000000001B71
+t1398917054
+s7025
+
+N/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/icons/icon-76@2x.png
+c000000005361C7BE0000000000003B9E
+t1398917054
+s15262
+
+N/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/icons/icon-small.png
+c000000005361C7BE0000000000000CDE
+t1398917054
+s3294
+
+N/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/icons/icon-small@2x.png
+c000000005361C7BE00000000000015E8
+t1398917054
+s5608
+
+N/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/icons/icon.png
+c000000005361C7BE0000000000000F3E
+t1398917054
+s3902
+
+N/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/icons/icon@2x.png
+c000000005361C7BE0000000000001EBD
+t1398917054
+s7869
+
+N/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/splash/Default-568h@2x~iphone.png
+c000000005361C7BE00000000000085B1
+t1398917054
+s34225
+
+N/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/splash/Default-Landscape@2x~ipad.png
+c000000005361C7BE0000000000033D0A
+t1398917054
+s212234
+
+N/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/splash/Default-Landscape~ipad.png
+c000000005361C7BE00000000000166A2
+t1398917054
+s91810
+
+N/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/splash/Default-Portrait@2x~ipad.png
+c000000005361C7BF0000000000033F7C
+t1398917055
+s212860
+
+N/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/splash/Default-Portrait~ipad.png
+c000000005361C7BF0000000000016641
+t1398917055
+s91713
+
+N/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/splash/Default@2x~iphone.png
+c000000005361C7BF0000000000007323
+t1398917055
+s29475
+
+N/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/splash/Default~iphone.png
+c000000005361C7BF000000000000289A
+t1398917055
+s10394
+
+N/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/main.m
+c000000005361C7BF000000000000045C
+t1398917055
+s1116
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Objects-normal/i386/AppDelegate.o
+t1398919596
+s73924
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Objects-normal/i386/FoodMood.LinkFileList
+c000000005361D16E0000000000000192
+t1398919534
+s402
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Objects-normal/i386/MainViewController.o
+t1398919596
+s51508
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Objects-normal/i386/main.o
+t1398919594
+s2940
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Script-304B58A110DAC018002A0835.sh
+c000000005361D16E000000000000002D
+t1398919534
+s45
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app
+t1398919600
+s1020
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app.dSYM
+t2
+s0
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/Default-568h@2x~iphone.png
+t1398919585
+s34225
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/Default-Landscape@2x~ipad.png
+t1398919585
+s212234
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/Default-Landscape~ipad.png
+t1398919585
+s91810
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/Default-Portrait@2x~ipad.png
+t1398919585
+s212860
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/Default-Portrait~ipad.png
+t1398919585
+s91713
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/Default@2x~iphone.png
+t1398919585
+s29475
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/Default~iphone.png
+t1398919585
+s10394
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/FoodMood
+t1398919600
+s271692
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/Info.plist
+t1398919534
+s1283
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/MainViewController.nib
+t1398919575
+s836
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/PkgInfo
+t2
+s0
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/de.lproj/Localizable.strings
+t1398919584
+s280
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/en.lproj/Localizable.strings
+t1398919535
+s166
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/icon-40.png
+t1398919585
+s4082
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/icon-40@2x.png
+t1398919535
+s7411
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/icon-50.png
+t1398919584
+s4874
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/icon-50@2x.png
+t1398919585
+s9611
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/icon-60.png
+t1398919585
+s5811
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/icon-60@2x.png
+t1398919584
+s11924
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/icon-72.png
+t1398919535
+s4944
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/icon-72@2x.png
+t1398919585
+s11706
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/icon-76.png
+t1398919535
+s7025
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/icon-76@2x.png
+t1398919585
+s15262
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/icon-small.png
+t1398919584
+s3294
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/icon-small@2x.png
+t1398919585
+s5608
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/icon.png
+t1398919535
+s3902
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/icon@2x.png
+t1398919535
+s7869
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/libCordova.a
+c000000005361C80A00000000000D3558
+t1398917130
+s865624
+
+N/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/FoodMood-Prefix-hiaiwqmjoqvkgpchcjuauuhflwvs/FoodMood-Prefix.pch.pch
+t1398919592
+s5376316
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies0bd442ee0812b941^f2ee70ee0812b941^---0#1#1#--18"Check dependencies36"56AAC5DE-335E-4CAD-92D3-BF7E1C3C6D9C-
+
+CCompileC build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Objects-normal/i386/AppDelegate.o /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420612394.695046
+e420612396.157336
+r1
+xCompileC
+xbuild/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Objects-normal/i386/AppDelegate.o
+x/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Classes/AppDelegate.m
+d/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Classes/AppDelegate.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Classes/MainViewController.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Classes/AppDelegate.m215"[1mCompileC[0m build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Objects-normal/i386/AppDelegate.o [1mFoodMood/Classes/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler310ab22a0912b941^0e84282c0912b941^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Classes/AppDelegate.m0000000000000000^3619"[1mCompileC[0m build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Objects-normal/i386/AppDelegate.o [1mFoodMood/Classes/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Chris/Sites/foodmood/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=162 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/FoodMood-generated-files.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/FoodMood-own-target-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/FoodMood-all-target-headers.hmap -iquote /Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/FoodMood-project-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include -I/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Chris/Sites/foodmood/platforms/ios/build/UninstalledProducts/include -I/Users/Chris/Sites/foodmood/platforms/ios/build/emulator -I/Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/DerivedSources/i386 -I/Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/DerivedSources -F/Users/Chris/Sites/foodmood/platforms/ios/build/emulator -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/FoodMood-Prefix-hiaiwqmjoqvkgpchcjuauuhflwvs/FoodMood-Prefix.pch -MMD -MT dependencies -MF /Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Objects-normal/i386/AppDelegate.dia -c /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Classes/AppDelegate.m -o /Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Objects-normal/i386/AppDelegate.o36"0418E27F-3691-40DA-932C-E9A63D25EF04-
+b2C961256-EC3B-4CD9-8C6C-0B5F2F2E450B
+
+CCompileC build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Objects-normal/i386/MainViewController.o /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420612396.157714
+e420612396.306367
+r1
+xCompileC
+xbuild/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Objects-normal/i386/MainViewController.o
+x/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Classes/MainViewController.m
+d/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Classes/MainViewController.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Classes/MainViewController.m229"[1mCompileC[0m build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Objects-normal/i386/MainViewController.o [1mFoodMood/Classes/MainViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compileree7b282c0912b941^3d9a4e2c0912b941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Classes/MainViewController.m0000000000000000^3661"[1mCompileC[0m build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Objects-normal/i386/MainViewController.o [1mFoodMood/Classes/MainViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Chris/Sites/foodmood/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=162 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/FoodMood-generated-files.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/FoodMood-own-target-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/FoodMood-all-target-headers.hmap -iquote /Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/FoodMood-project-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include -I/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Chris/Sites/foodmood/platforms/ios/build/UninstalledProducts/include -I/Users/Chris/Sites/foodmood/platforms/ios/build/emulator -I/Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/DerivedSources/i386 -I/Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/DerivedSources -F/Users/Chris/Sites/foodmood/platforms/ios/build/emulator -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/FoodMood-Prefix-hiaiwqmjoqvkgpchcjuauuhflwvs/FoodMood-Prefix.pch -MMD -MT dependencies -MF /Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Objects-normal/i386/MainViewController.dia -c /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Classes/MainViewController.m -o /Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Objects-normal/i386/MainViewController.o36"4C22C086-3142-47A2-B456-BF72110917A6-
+b2C961256-EC3B-4CD9-8C6C-0B5F2F2E450B
+
+CCompileC build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Objects-normal/i386/main.o /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420612392.701695
+e420612394.694584
+r1
+xCompileC
+xbuild/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Objects-normal/i386/main.o
+x/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/main.m193"[1mCompileC[0m build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Objects-normal/i386/main.o [1mFoodMood/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8cbdb3280912b941^f2ceb12a0912b941^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/Chris/Sites/foodmood/platforms/ios/FoodMood/main.m0000000000000000^3561"[1mCompileC[0m build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Objects-normal/i386/main.o [1mFoodMood/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Chris/Sites/foodmood/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=162 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/FoodMood-generated-files.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/FoodMood-own-target-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/FoodMood-all-target-headers.hmap -iquote /Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/FoodMood-project-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include -I/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Chris/Sites/foodmood/platforms/ios/build/UninstalledProducts/include -I/Users/Chris/Sites/foodmood/platforms/ios/build/emulator -I/Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/DerivedSources/i386 -I/Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/DerivedSources -F/Users/Chris/Sites/foodmood/platforms/ios/build/emulator -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/FoodMood-Prefix-hiaiwqmjoqvkgpchcjuauuhflwvs/FoodMood-Prefix.pch -MMD -MT dependencies -MF /Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Objects-normal/i386/main.dia -c /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/main.m -o /Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Objects-normal/i386/main.o36"CFABA526-C28C-49AB-91A5-66DBD225D96D-
+b2C961256-EC3B-4CD9-8C6C-0B5F2F2E450B
+
+CCompileXIB /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Classes/MainViewController.xib
+s420612335.446742
+e420612384.595174
+r1
+xCompileXIB
+x/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Classes/MainViewController.xib
+o2014-04-30 21:46:10.756 Interface Builder Cocoa Touch Tool[10464:303] CFPreferences: user home directory at file:///var/root/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compiling /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Classes/MainViewController.xib66"[1mCompileXIB[0m [1mFoodMood/Classes/MainViewController.xib[0m266d72ef0812b941^395f98200912b941^-227"2014-04-30 21:46:10.756 Interface Builder Cocoa Touch Tool[10464:303] CFPreferences: user home directory at file:///var/root/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@88"file:///Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Classes/MainViewController.xib0000000000000000^828"[1mCompileXIB[0m [1mFoodMood/Classes/MainViewController.xib[0m    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.0 --output-format human-readable-text --compile /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/MainViewController.nib /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Classes/MainViewController.xib36"047CDC1B-DBBB-452F-B437-B39A363DEBEE-
+b2C961256-EC3B-4CD9-8C6C-0B5F2F2E450B
+
+CCopyStringsFile /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/de.lproj/Localizable.strings FoodMood/Resources/de.lproj/Localizable.strings
+s420612384.841256
+e420612384.922751
+r1
+xCopyStringsFile
+x/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/de.lproj/Localizable.strings
+xFoodMood/Resources/de.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy FoodMood/Resources/de.lproj/Localizable.strings128"[1mCopyStringsFile[0m build/emulator/FoodMood.app/de.lproj/Localizable.strings FoodMood/Resources/de.lproj/Localizable.stringsdb88d7200912b941^7c63ec200912b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/de.lproj/Localizable.strings0000000000000000^630"[1mCopyStringsFile[0m build/emulator/FoodMood.app/de.lproj/Localizable.strings FoodMood/Resources/de.lproj/Localizable.strings    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/de.lproj -- FoodMood/Resources/de.lproj/Localizable.strings36"039A839B-623B-4855-9328-BBBEF50073A5-
+b2C961256-EC3B-4CD9-8C6C-0B5F2F2E450B
+
+CCopyStringsFile /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/en.lproj/Localizable.strings FoodMood/Resources/en.lproj/Localizable.strings
+s420612335.444286
+e420612335.446621
+r1
+xCopyStringsFile
+x/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/en.lproj/Localizable.strings
+xFoodMood/Resources/en.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy FoodMood/Resources/en.lproj/Localizable.strings128"[1mCopyStringsFile[0m build/emulator/FoodMood.app/en.lproj/Localizable.strings FoodMood/Resources/en.lproj/Localizable.stringsa3cd71ef0812b941^cb4772ef0812b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/en.lproj/Localizable.strings0000000000000000^630"[1mCopyStringsFile[0m build/emulator/FoodMood.app/en.lproj/Localizable.strings FoodMood/Resources/en.lproj/Localizable.strings    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/en.lproj -- FoodMood/Resources/en.lproj/Localizable.strings36"531BD009-50FB-4AE0-AFCE-DA3502D95C40-
+b2C961256-EC3B-4CD9-8C6C-0B5F2F2E450B
+
+CCpResource FoodMood/Resources/icons/icon-40.png build/emulator/FoodMood.app/icon-40.png
+s420612385.194626
+e420612385.216717
+r1
+xCpResource
+xFoodMood/Resources/icons/icon-40.png
+xbuild/emulator/FoodMood.app/icon-40.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy build/emulator/FoodMood.app/icon-40.png95"[1mCpResource[0m FoodMood/Resources/icons/icon-40.png build/emulator/FoodMood.app/icon-40.pngd8ef31210912b941^207d37210912b941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/icon-40.png00340070ddffdf42^638"[1mCpResource[0m FoodMood/Resources/icons/icon-40.png build/emulator/FoodMood.app/icon-40.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/icons/icon-40.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app36"4FCC0149-F2BE-40B9-A176-4B5F7939852F-
+b2C961256-EC3B-4CD9-8C6C-0B5F2F2E450B
+
+CCpResource FoodMood/Resources/icons/icon-40@2x.png build/emulator/FoodMood.app/icon-40@2x.png
+s420612335.437021
+e420612335.438740
+r1
+xCpResource
+xFoodMood/Resources/icons/icon-40@2x.png
+xbuild/emulator/FoodMood.app/icon-40@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Copy build/emulator/FoodMood.app/icon-40@2x.png101"[1mCpResource[0m FoodMood/Resources/icons/icon-40@2x.png build/emulator/FoodMood.app/icon-40@2x.pngc6f96fef0812b941^b55270ef0812b941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/icon-40@2x.png00340070ddffdf42^647"[1mCpResource[0m FoodMood/Resources/icons/icon-40@2x.png build/emulator/FoodMood.app/icon-40@2x.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/icons/icon-40@2x.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app36"65238C70-43E3-48BC-BB4D-BB262FCC1CDA-
+b2C961256-EC3B-4CD9-8C6C-0B5F2F2E450B
+
+CCpResource FoodMood/Resources/icons/icon-50.png build/emulator/FoodMood.app/icon-50.png
+s420612384.595546
+e420612384.721738
+r1
+xCpResource
+xFoodMood/Resources/icons/icon-50.png
+xbuild/emulator/FoodMood.app/icon-50.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy build/emulator/FoodMood.app/icon-50.png95"[1mCpResource[0m FoodMood/Resources/icons/icon-50.png build/emulator/FoodMood.app/icon-50.png498698200912b941^48fab8200912b941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/icon-50.png00340070ddffdf42^638"[1mCpResource[0m FoodMood/Resources/icons/icon-50.png build/emulator/FoodMood.app/icon-50.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/icons/icon-50.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app36"048FC7AA-E2E1-47C9-9A86-A48263AFAD9E-
+b2C961256-EC3B-4CD9-8C6C-0B5F2F2E450B
+
+CCpResource FoodMood/Resources/icons/icon-50@2x.png build/emulator/FoodMood.app/icon-50@2x.png
+s420612385.222557
+e420612385.223791
+r1
+xCpResource
+xFoodMood/Resources/icons/icon-50@2x.png
+xbuild/emulator/FoodMood.app/icon-50@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Copy build/emulator/FoodMood.app/icon-50@2x.png101"[1mCpResource[0m FoodMood/Resources/icons/icon-50@2x.png build/emulator/FoodMood.app/icon-50@2x.png9a0639210912b941^2b4e39210912b941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/icon-50@2x.png00340070ddffdf42^647"[1mCpResource[0m FoodMood/Resources/icons/icon-50@2x.png build/emulator/FoodMood.app/icon-50@2x.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/icons/icon-50@2x.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app36"E54573C2-FE38-47D4-A8B6-EA32B792CB5B-
+b2C961256-EC3B-4CD9-8C6C-0B5F2F2E450B
+
+CCpResource FoodMood/Resources/icons/icon-60.png build/emulator/FoodMood.app/icon-60.png
+s420612385.218595
+e420612385.219708
+r1
+xCpResource
+xFoodMood/Resources/icons/icon-60.png
+xbuild/emulator/FoodMood.app/icon-60.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy build/emulator/FoodMood.app/icon-60.png95"[1mCpResource[0m FoodMood/Resources/icons/icon-60.png build/emulator/FoodMood.app/icon-60.png860438210912b941^923f38210912b941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/icon-60.png00340070ddffdf42^638"[1mCpResource[0m FoodMood/Resources/icons/icon-60.png build/emulator/FoodMood.app/icon-60.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/icons/icon-60.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app36"E782B169-C808-4745-8DA7-74D552C48735-
+b2C961256-EC3B-4CD9-8C6C-0B5F2F2E450B
+
+CCpResource FoodMood/Resources/icons/icon-60@2x.png build/emulator/FoodMood.app/icon-60@2x.png
+s420612384.721944
+e420612384.841044
+r1
+xCpResource
+xFoodMood/Resources/icons/icon-60@2x.png
+xbuild/emulator/FoodMood.app/icon-60@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Copy build/emulator/FoodMood.app/icon-60@2x.png101"[1mCpResource[0m FoodMood/Resources/icons/icon-60@2x.png build/emulator/FoodMood.app/icon-60@2x.png72e1b8200912b941^1574d7200912b941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/icon-60@2x.png00340070ddffdf42^647"[1mCpResource[0m FoodMood/Resources/icons/icon-60@2x.png build/emulator/FoodMood.app/icon-60@2x.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/icons/icon-60@2x.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app36"1B72EDA0-4365-41A5-8318-BA2DD67ECBA5-
+b2C961256-EC3B-4CD9-8C6C-0B5F2F2E450B
+
+CCpResource FoodMood/Resources/icons/icon-72.png build/emulator/FoodMood.app/icon-72.png
+s420612335.439093
+e420612335.440318
+r1
+xCpResource
+xFoodMood/Resources/icons/icon-72.png
+xbuild/emulator/FoodMood.app/icon-72.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy build/emulator/FoodMood.app/icon-72.png95"[1mCpResource[0m FoodMood/Resources/icons/icon-72.png build/emulator/FoodMood.app/icon-72.pnge27670ef0812b941^e4bb70ef0812b941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/icon-72.png00340070ddffdf42^638"[1mCpResource[0m FoodMood/Resources/icons/icon-72.png build/emulator/FoodMood.app/icon-72.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/icons/icon-72.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app36"EEEC8D42-3ACE-46B3-A428-45F1BA3E6D76-
+b2C961256-EC3B-4CD9-8C6C-0B5F2F2E450B
+
+CCpResource FoodMood/Resources/icons/icon-72@2x.png build/emulator/FoodMood.app/icon-72@2x.png
+s420612385.225103
+e420612385.225995
+r1
+xCpResource
+xFoodMood/Resources/icons/icon-72@2x.png
+xbuild/emulator/FoodMood.app/icon-72@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Copy build/emulator/FoodMood.app/icon-72@2x.png101"[1mCpResource[0m FoodMood/Resources/icons/icon-72@2x.png build/emulator/FoodMood.app/icon-72@2x.pngfbad39210912b941^cbdb39210912b941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/icon-72@2x.png00340070ddffdf42^647"[1mCpResource[0m FoodMood/Resources/icons/icon-72@2x.png build/emulator/FoodMood.app/icon-72@2x.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/icons/icon-72@2x.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app36"8AE0415D-914E-41AE-9C58-E68BC53F8C73-
+b2C961256-EC3B-4CD9-8C6C-0B5F2F2E450B
+
+CCpResource FoodMood/Resources/icons/icon-76.png build/emulator/FoodMood.app/icon-76.png
+s420612335.367044
+e420612335.436833
+r1
+xCpResource
+xFoodMood/Resources/icons/icon-76.png
+xbuild/emulator/FoodMood.app/icon-76.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy build/emulator/FoodMood.app/icon-76.png95"[1mCpResource[0m FoodMood/Resources/icons/icon-76.png build/emulator/FoodMood.app/icon-76.png170c5eef0812b941^cfd86fef0812b941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/icon-76.png00340070ddffdf42^638"[1mCpResource[0m FoodMood/Resources/icons/icon-76.png build/emulator/FoodMood.app/icon-76.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/icons/icon-76.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app36"30EB7F66-DC4D-4516-A424-BDDC9574ADBF-
+b2C961256-EC3B-4CD9-8C6C-0B5F2F2E450B
+
+CCpResource FoodMood/Resources/icons/icon-76@2x.png build/emulator/FoodMood.app/icon-76@2x.png
+s420612385.223897
+e420612385.224886
+r1
+xCpResource
+xFoodMood/Resources/icons/icon-76@2x.png
+xbuild/emulator/FoodMood.app/icon-76@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Copy build/emulator/FoodMood.app/icon-76@2x.png101"[1mCpResource[0m FoodMood/Resources/icons/icon-76@2x.png build/emulator/FoodMood.app/icon-76@2x.png306439210912b941^209639210912b941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/icon-76@2x.png00340070ddffdf42^647"[1mCpResource[0m FoodMood/Resources/icons/icon-76@2x.png build/emulator/FoodMood.app/icon-76@2x.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/icons/icon-76@2x.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app36"B5ED193B-8ABF-43C7-843D-5D92AA24E52B-
+b2C961256-EC3B-4CD9-8C6C-0B5F2F2E450B
+
+CCpResource FoodMood/Resources/icons/icon-small.png build/emulator/FoodMood.app/icon-small.png
+s420612384.922905
+e420612384.959271
+r1
+xCpResource
+xFoodMood/Resources/icons/icon-small.png
+xbuild/emulator/FoodMood.app/icon-small.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Copy build/emulator/FoodMood.app/icon-small.png101"[1mCpResource[0m FoodMood/Resources/icons/icon-small.png build/emulator/FoodMood.app/icon-small.pnga452ec200912b941^8a76f5200912b941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/icon-small.png00340070ddffdf42^647"[1mCpResource[0m FoodMood/Resources/icons/icon-small.png build/emulator/FoodMood.app/icon-small.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/icons/icon-small.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app36"B0AC762B-B265-4C19-B93B-F292BB3EB9F7-
+b2C961256-EC3B-4CD9-8C6C-0B5F2F2E450B
+
+CCpResource FoodMood/Resources/icons/icon-small@2x.png build/emulator/FoodMood.app/icon-small@2x.png
+s420612385.043315
+e420612385.066939
+r1
+xCpResource
+xFoodMood/Resources/icons/icon-small@2x.png
+xbuild/emulator/FoodMood.app/icon-small@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/emulator/FoodMood.app/icon-small@2x.png107"[1mCpResource[0m FoodMood/Resources/icons/icon-small@2x.png build/emulator/FoodMood.app/icon-small@2x.pnga1310b210912b941^493011210912b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/icon-small@2x.png00340070ddffdf42^656"[1mCpResource[0m FoodMood/Resources/icons/icon-small@2x.png build/emulator/FoodMood.app/icon-small@2x.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/icons/icon-small@2x.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app36"A37A25CD-ECED-42C1-B11A-B971955DAEDC-
+b2C961256-EC3B-4CD9-8C6C-0B5F2F2E450B
+
+CCpResource FoodMood/Resources/icons/icon.png build/emulator/FoodMood.app/icon.png
+s420612335.440671
+e420612335.441620
+r1
+xCpResource
+xFoodMood/Resources/icons/icon.png
+xbuild/emulator/FoodMood.app/icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy build/emulator/FoodMood.app/icon.png89"[1mCpResource[0m FoodMood/Resources/icons/icon.png build/emulator/FoodMood.app/icon.png40dd70ef0812b941^192071ef0812b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/icon.png00340070ddffdf42^629"[1mCpResource[0m FoodMood/Resources/icons/icon.png build/emulator/FoodMood.app/icon.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/icons/icon.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app36"8FD5876F-FBCA-45A5-A0AB-24A890AA4C4D-
+b2C961256-EC3B-4CD9-8C6C-0B5F2F2E450B
+
+CCpResource FoodMood/Resources/icons/icon@2x.png build/emulator/FoodMood.app/icon@2x.png
+s420612335.441756
+e420612335.443815
+r1
+xCpResource
+xFoodMood/Resources/icons/icon@2x.png
+xbuild/emulator/FoodMood.app/icon@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy build/emulator/FoodMood.app/icon@2x.png95"[1mCpResource[0m FoodMood/Resources/icons/icon@2x.png build/emulator/FoodMood.app/icon@2x.pngb32371ef0812b941^849e71ef0812b941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/icon@2x.png00340070ddffdf42^638"[1mCpResource[0m FoodMood/Resources/icons/icon@2x.png build/emulator/FoodMood.app/icon@2x.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/icons/icon@2x.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app36"68FE8C20-00B4-4344-A0F2-44FB4C652954-
+b2C961256-EC3B-4CD9-8C6C-0B5F2F2E450B
+
+CCpResource FoodMood/Resources/splash/Default-568h@2x~iphone.png build/emulator/FoodMood.app/Default-568h@2x~iphone.png
+s420612385.221361
+e420612385.222390
+r1
+xCpResource
+xFoodMood/Resources/splash/Default-568h@2x~iphone.png
+xbuild/emulator/FoodMood.app/Default-568h@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy build/emulator/FoodMood.app/Default-568h@2x~iphone.png126"[1mCpResource[0m FoodMood/Resources/splash/Default-568h@2x~iphone.png build/emulator/FoodMood.app/Default-568h@2x~iphone.pngf6b738210912b941^e1ee38210912b941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/Default-568h@2x~iphone.png00340070ddffdf42^685"[1mCpResource[0m FoodMood/Resources/splash/Default-568h@2x~iphone.png build/emulator/FoodMood.app/Default-568h@2x~iphone.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/splash/Default-568h@2x~iphone.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app36"8242810C-6682-44AB-BDB6-3585924AE95E-
+b2C961256-EC3B-4CD9-8C6C-0B5F2F2E450B
+
+CCpResource FoodMood/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/FoodMood.app/Default-Landscape@2x~ipad.png
+s420612384.959447
+e420612385.005182
+r1
+xCpResource
+xFoodMood/Resources/splash/Default-Landscape@2x~ipad.png
+xbuild/emulator/FoodMood.app/Default-Landscape@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy build/emulator/FoodMood.app/Default-Landscape@2x~ipad.png132"[1mCpResource[0m FoodMood/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/FoodMood.app/Default-Landscape@2x~ipad.png82aef5200912b941^585701210912b941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/Default-Landscape@2x~ipad.png00340070ddffdf42^694"[1mCpResource[0m FoodMood/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/FoodMood.app/Default-Landscape@2x~ipad.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/splash/Default-Landscape@2x~ipad.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app36"DA237486-BC63-495E-B588-BC3FFE1F94C7-
+b2C961256-EC3B-4CD9-8C6C-0B5F2F2E450B
+
+CCpResource FoodMood/Resources/splash/Default-Landscape~ipad.png build/emulator/FoodMood.app/Default-Landscape~ipad.png
+s420612385.005662
+e420612385.038090
+r1
+xCpResource
+xFoodMood/Resources/splash/Default-Landscape~ipad.png
+xbuild/emulator/FoodMood.app/Default-Landscape~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy build/emulator/FoodMood.app/Default-Landscape~ipad.png126"[1mCpResource[0m FoodMood/Resources/splash/Default-Landscape~ipad.png build/emulator/FoodMood.app/Default-Landscape~ipad.pnge08501210912b941^01db09210912b941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/Default-Landscape~ipad.png00340070ddffdf42^685"[1mCpResource[0m FoodMood/Resources/splash/Default-Landscape~ipad.png build/emulator/FoodMood.app/Default-Landscape~ipad.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/splash/Default-Landscape~ipad.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app36"C657F7DE-EB23-4CBD-873F-CFA92329EB03-
+b2C961256-EC3B-4CD9-8C6C-0B5F2F2E450B
+
+CCpResource FoodMood/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/FoodMood.app/Default-Portrait@2x~ipad.png
+s420612385.038289
+e420612385.042311
+r1
+xCpResource
+xFoodMood/Resources/splash/Default-Portrait@2x~ipad.png
+xbuild/emulator/FoodMood.app/Default-Portrait@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/emulator/FoodMood.app/Default-Portrait@2x~ipad.png130"[1mCpResource[0m FoodMood/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/FoodMood.app/Default-Portrait@2x~ipad.png29ed09210912b941^2bdc0a210912b941^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/Default-Portrait@2x~ipad.png00340070ddffdf42^691"[1mCpResource[0m FoodMood/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/FoodMood.app/Default-Portrait@2x~ipad.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/splash/Default-Portrait@2x~ipad.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app36"E3CC9749-2003-4103-A3B7-6A9F5BBAAD72-
+b2C961256-EC3B-4CD9-8C6C-0B5F2F2E450B
+
+CCpResource FoodMood/Resources/splash/Default-Portrait~ipad.png build/emulator/FoodMood.app/Default-Portrait~ipad.png
+s420612385.067182
+e420612385.193519
+r1
+xCpResource
+xFoodMood/Resources/splash/Default-Portrait~ipad.png
+xbuild/emulator/FoodMood.app/Default-Portrait~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy build/emulator/FoodMood.app/Default-Portrait~ipad.png124"[1mCpResource[0m FoodMood/Resources/splash/Default-Portrait~ipad.png build/emulator/FoodMood.app/Default-Portrait~ipad.png954911210912b941^658e31210912b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/Default-Portrait~ipad.png00340070ddffdf42^682"[1mCpResource[0m FoodMood/Resources/splash/Default-Portrait~ipad.png build/emulator/FoodMood.app/Default-Portrait~ipad.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/splash/Default-Portrait~ipad.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app36"79E758A5-F018-4D2B-874C-69444CB78621-
+b2C961256-EC3B-4CD9-8C6C-0B5F2F2E450B
+
+CCpResource FoodMood/Resources/splash/Default@2x~iphone.png build/emulator/FoodMood.app/Default@2x~iphone.png
+s420612385.217126
+e420612385.218473
+r1
+xCpResource
+xFoodMood/Resources/splash/Default@2x~iphone.png
+xbuild/emulator/FoodMood.app/Default@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy build/emulator/FoodMood.app/Default@2x~iphone.png116"[1mCpResource[0m FoodMood/Resources/splash/Default@2x~iphone.png build/emulator/FoodMood.app/Default@2x~iphone.pngd7a437210912b941^a2ee37210912b941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/Default@2x~iphone.png00340070ddffdf42^670"[1mCpResource[0m FoodMood/Resources/splash/Default@2x~iphone.png build/emulator/FoodMood.app/Default@2x~iphone.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/splash/Default@2x~iphone.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app36"E1B6A518-59DC-4E0D-86CC-9B43F27F322B-
+b2C961256-EC3B-4CD9-8C6C-0B5F2F2E450B
+
+CCpResource FoodMood/Resources/splash/Default~iphone.png build/emulator/FoodMood.app/Default~iphone.png
+s420612385.219898
+e420612385.221142
+r1
+xCpResource
+xFoodMood/Resources/splash/Default~iphone.png
+xbuild/emulator/FoodMood.app/Default~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/emulator/FoodMood.app/Default~iphone.png110"[1mCpResource[0m FoodMood/Resources/splash/Default~iphone.png build/emulator/FoodMood.app/Default~iphone.png535938210912b941^9d9d38210912b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/Default~iphone.png00340070ddffdf42^661"[1mCpResource[0m FoodMood/Resources/splash/Default~iphone.png build/emulator/FoodMood.app/Default~iphone.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/Resources/splash/Default~iphone.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app36"24056B6B-2215-481D-B236-0250A472766C-
+b2C961256-EC3B-4CD9-8C6C-0B5F2F2E450B
+
+CGenerateDSYMFile /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app.dSYM /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/FoodMood
+s420612400.225485
+e420612400.668126
+r1
+xGenerateDSYMFile
+x/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app.dSYM
+x/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/FoodMood
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Generate /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app.dSYM102"[1mGenerateDSYMFile[0m [1mbuild/emulator/FoodMood.app.dSYM[0m build/emulator/FoodMood.app/FoodMood9ece39300912b941^d367ab300912b941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app.dSYM00340070ddffdf42^641"[1mGenerateDSYMFile[0m [1mbuild/emulator/FoodMood.app.dSYM[0m build/emulator/FoodMood.app/FoodMood    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/FoodMood -o /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app.dSYM36"DC3D51E3-01C3-4AEC-B338-C42B2E708907-
+b2C961256-EC3B-4CD9-8C6C-0B5F2F2E450B
+
+CLd /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/FoodMood normal i386
+s420612396.312299
+e420612400.224350
+r1
+xLd
+x/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/FoodMood
+xnormal
+xi386
+d/Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Objects-normal/i386/FoodMood.LinkFileList
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/libCordova.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Objects-normal/i386/main.o
+d/Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Objects-normal/i386/AppDelegate.o
+d/Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Objects-normal/i386/MainViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Link /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/FoodMood59"[1mLd[0m build/emulator/FoodMood.app/FoodMood normal i3867408502c0912b941^226f39300912b941^---0#0#1#--1666"[1mLd[0m build/emulator/FoodMood.app/FoodMood normal i386    cd /Users/Chris/Sites/foodmood/platforms/ios    export IPHONEOS_DEPLOYMENT_TARGET=6.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/Chris/Sites/foodmood/platforms/ios/build/emulator -F/Users/Chris/Sites/foodmood/platforms/ios/build/emulator -filelist /Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Objects-normal/i386/FoodMood.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/libCordova.a -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework AssetsLibrary /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/libCordova.a -framework CoreGraphics -framework MobileCoreServices -framework CoreLocation -Xlinker -dependency_info -Xlinker /Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Objects-normal/i386/FoodMood_dependency_info.dat -o /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/FoodMood36"89F559D4-9588-486D-8C59-341FC7C08270-
+b2C961256-EC3B-4CD9-8C6C-0B5F2F2E450B
+
+CPhaseScriptExecution Copy\ www\ directory /Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Script-304B58A110DAC018002A0835.sh
+s420612334.448894
+e420612335.366095
+r1
+xPhaseScriptExecution
+xCopy www directory
+x/Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Script-304B58A110DAC018002A0835.sh
+o
+oreal	0m0.739s
+ouser	0m0.078s
+osys	0m0.155s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'142"[1mPhaseScriptExecution[0m Copy\ www\ directory build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Script-304B58A110DAC018002A0835.shea5a73ee0812b941^73bd5def0812b941^-42"real	0m0.739suser	0m0.078ssys	0m0.155s3(21%IDEActivityLogMessage2@14"real	0m0.739s-420612335#1#14#-0#-----2@14"user	0m0.078s-420612335#15#14#-0#-----2@13"sys	0m0.155s-420612335#29#13#-0#-----0#0#1#--342"[1mPhaseScriptExecution[0m Copy\ www\ directory build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Script-304B58A110DAC018002A0835.sh    cd /Users/Chris/Sites/foodmood/platforms/ios    /bin/sh -c /Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/Script-304B58A110DAC018002A0835.sh36"7A010A9C-431F-42D4-BCE2-8D8F72D35369-
+b2C961256-EC3B-4CD9-8C6C-0B5F2F2E450B
+
+CProcessInfoPlistFile /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/Info.plist /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/FoodMood-Info.plist
+s420612334.442777
+e420612334.447224
+r1
+xProcessInfoPlistFile
+x/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/Info.plist
+x/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/FoodMood-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Process /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/FoodMood-Info.plist104"[1mProcessInfoPlistFile[0m build/emulator/FoodMood.app/Info.plist [1mFoodMood/FoodMood-Info.plist[0m26a871ee0812b941^ae9b72ee0812b941^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/Chris/Sites/foodmood/platforms/ios/FoodMood/FoodMood-Info.plist0000000000000000^722"[1mProcessInfoPlistFile[0m build/emulator/FoodMood.app/Info.plist [1mFoodMood/FoodMood-Info.plist[0m    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-infoPlistUtility /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/FoodMood-Info.plist -genpkginfo /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app/Info.plist36"267ED3FA-5902-41E4-AEA2-2D73230E5874-
+b2C961256-EC3B-4CD9-8C6C-0B5F2F2E450B
+
+CProcessPCH /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/FoodMood-Prefix-hiaiwqmjoqvkgpchcjuauuhflwvs/FoodMood-Prefix.pch.pch FoodMood/FoodMood-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420612385.229090
+e420612392.469431
+r1
+xProcessPCH
+x/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/FoodMood-Prefix-hiaiwqmjoqvkgpchcjuauuhflwvs/FoodMood-Prefix.pch.pch
+xFoodMood/FoodMood-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Chris/Sites/foodmood/platforms/ios/FoodMood/FoodMood-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile FoodMood/FoodMood-Prefix.pch302"[1mProcessPCH[0m /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/FoodMood-Prefix-hiaiwqmjoqvkgpchcjuauuhflwvs/FoodMood-Prefix.pch.pch FoodMood/FoodMood-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler16c23a210912b941^524678280912b941^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/Chris/Sites/foodmood/platforms/ios/FoodMood/FoodMood-Prefix.pch0000000000000000^3674"[1mProcessPCH[0m /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/FoodMood-Prefix-hiaiwqmjoqvkgpchcjuauuhflwvs/FoodMood-Prefix.pch.pch FoodMood/FoodMood-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Chris/Sites/foodmood/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=162 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/FoodMood-generated-files.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/FoodMood-own-target-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/FoodMood-all-target-headers.hmap -iquote /Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/FoodMood-project-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include -I/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Chris/Sites/foodmood/platforms/ios/build/UninstalledProducts/include -I/Users/Chris/Sites/foodmood/platforms/ios/build/emulator -I/Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/DerivedSources/i386 -I/Users/Chris/Sites/foodmood/platforms/ios/build/FoodMood.build/Debug-iphonesimulator/FoodMood.build/DerivedSources -F/Users/Chris/Sites/foodmood/platforms/ios/build/emulator --serialize-diagnostics /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/FoodMood-Prefix-hiaiwqmjoqvkgpchcjuauuhflwvs/FoodMood-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/FoodMood-Prefix-hiaiwqmjoqvkgpchcjuauuhflwvs/FoodMood-Prefix.pch.d -c /Users/Chris/Sites/foodmood/platforms/ios/FoodMood/FoodMood-Prefix.pch -o /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/FoodMood-Prefix-hiaiwqmjoqvkgpchcjuauuhflwvs/FoodMood-Prefix.pch.pch36"DEBFB88E-305E-482E-8228-D8E39F501AF2-
+b2C961256-EC3B-4CD9-8C6C-0B5F2F2E450B
+
+CTouch /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app
+s420612400.669698
+e420612400.829512
+r1
+xTouch
+x/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Touch /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app41"[1mTouch[0m build/emulator/FoodMood.app0f81ab300912b941^fe64d4300912b941^---0#0#1#--415"[1mTouch[0m build/emulator/FoodMood.app    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /usr/bin/touch -c /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/FoodMood.app36"8A5678F9-117F-4930-B8F8-01895B16AA12-
+b2C961256-EC3B-4CD9-8C6C-0B5F2F2E450B
+

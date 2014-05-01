@@ -1,0 +1,1184 @@
+TCordovaLib
+v6
+r1
+cCheck dependencies
+cCpHeader Classes/NSDictionary+Extensions.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/NSDictionary+Extensions.h
+cCpHeader Classes/CDVInvokedUrlCommand.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h
+cCpHeader Classes/NSData+Base64.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/NSData+Base64.h
+cCpHeader Classes/CDVPluginResult.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVPluginResult.h
+cCpHeader Classes/CDVPlugin.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVPlugin.h
+cCpHeader Classes/CDVDebug.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVDebug.h
+cCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h
+cCpHeader Classes/CDVWhitelist.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVWhitelist.h
+cCpHeader Classes/CDVURLProtocol.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVURLProtocol.h
+cCpHeader Classes/CDVViewController.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVViewController.h
+cCpHeader Classes/CDVCommandDelegate.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h
+cCpHeader Classes/CDV.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDV.h
+cCpHeader Classes/CDVAvailability.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVAvailability.h
+cCpHeader Classes/CDVLocalStorage.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVLocalStorage.h
+cCpHeader Classes/UIDevice+Extensions.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/UIDevice+Extensions.h
+cCpHeader Classes/CDVCommandQueue.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h
+cCpHeader Classes/NSArray+Comparisons.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/NSArray+Comparisons.h
+cCpHeader Classes/CDVCommandDelegateImpl.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVCommandDelegateImpl.h
+cCpHeader Classes/CDVShared.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVShared.h
+cCpHeader Classes/CDVScreenOrientationDelegate.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h
+cCpHeader Classes/CDVConfigParser.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVConfigParser.h
+cCpHeader Classes/CDVWebViewDelegate.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVWebViewDelegate.h
+cCpHeader Classes/CDVJSON.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVJSON.h
+cCpHeader Classes/CDVUserAgentUtil.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVUserAgentUtil.h
+cCpHeader Classes/CDVTimer.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVTimer.h
+cProcessPCH /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-bnwokhqztnlehffyozmicoxbckfd/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSDictionary+Extensions.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVInvokedUrlCommand.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSData+Base64.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPluginResult.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPlugin.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSMutableArray+QueueAdditions.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWhitelist.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVURLProtocol.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVViewController.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVLocalStorage.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/UIDevice+Extensions.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSArray+Comparisons.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandQueue.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandDelegateImpl.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVConfigParser.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVJSON.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVJSON.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVUserAgentUtil.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWebViewDelegate.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVTimer.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVTimer.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVShared.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVShared.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/Chris/Sites/foodmood/platforms/ios/build/device/libCordova.a normal armv7
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c0000000053119F860000000000000132
+t1393663878
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c000000005361C5F0000000000000036B
+t1398916592
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005361C5F2000000000000019E
+t1398916594
+s414
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDV.h
+c000000005361C7BF0000000000000516
+t1398917055
+s1302
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+c000000005361C7BF0000000000000CFB
+t1398917055
+s3323
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+c000000005361C7BF00000000000008BA
+t1398917055
+s2234
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+c000000005361C7BF00000000000004E2
+t1398917055
+s1250
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+c000000005361C7BF000000000000183A
+t1398917055
+s6202
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+c000000005361C7BF0000000000000503
+t1398917055
+s1283
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+c000000005361C7BF0000000000001ED0
+t1398917055
+s7888
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+c000000005361C7BF00000000000004CB
+t1398917055
+s1227
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+c000000005361C7BF0000000000000EBF
+t1398917055
+s3775
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVDebug.h
+c000000005361C7BF0000000000000401
+t1398917055
+s1025
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+c000000005361C7BF00000000000007E6
+t1398917055
+s2022
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+c000000005361C7BF0000000000000DDE
+t1398917055
+s3550
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVJSON.h
+c000000005361C7BF00000000000003DA
+t1398917055
+s986
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVJSON.m
+c000000005361C7BF00000000000009A1
+t1398917055
+s2465
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+c000000005361C7BF00000000000006CF
+t1398917055
+s1743
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+c000000005361C7BF0000000000004C7E
+t1398917055
+s19582
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+c000000005361C7BF0000000000000892
+t1398917055
+s2194
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+c000000005361C7BF00000000000016AE
+t1398917055
+s5806
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+c000000005361C7BF0000000000000C13
+t1398917055
+s3091
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+c000000005361C7BF0000000000001B29
+t1398917055
+s6953
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+c000000005361C7BF0000000000000408
+t1398917055
+s1032
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVShared.h
+c000000005361C7BF00000000000003E6
+t1398917055
+s998
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVShared.m
+c000000005361C7BF00000000000006BD
+t1398917055
+s1725
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVTimer.h
+c000000005361C7BF000000000000038D
+t1398917055
+s909
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVTimer.m
+c000000005361C7BF0000000000000AA2
+t1398917055
+s2722
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+c000000005361C7BF000000000000041C
+t1398917055
+s1052
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+c000000005361C7BF000000000000259E
+t1398917055
+s9630
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+c000000005361C7BF0000000000000421
+t1398917055
+s1057
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+c000000005361C7BF0000000000001361
+t1398917055
+s4961
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVViewController.h
+c000000005361C7BF0000000000000ACC
+t1398917055
+s2764
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVViewController.m
+c000000005361C7BF0000000000008FD2
+t1398917055
+s36818
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+c000000005361C7BF00000000000005A2
+t1398917055
+s1442
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+c000000005361C7BF0000000000003795
+t1398917055
+s14229
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+c000000005361C7BF00000000000004B4
+t1398917055
+s1204
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+c000000005361C7BF0000000000002814
+t1398917055
+s10260
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+c000000005361C7BF0000000000000392
+t1398917055
+s914
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+c000000005361C7BF00000000000004D8
+t1398917055
+s1240
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+c000000005361C7BF000000000000037D
+t1398917055
+s893
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+c000000005361C7BF00000000000022CC
+t1398917055
+s8908
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+c000000005361C7BF00000000000005DA
+t1398917055
+s1498
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+c000000005361C7BF0000000000001059
+t1398917055
+s4185
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+c000000005361C7BF00000000000003A0
+t1398917055
+s928
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+c000000005361C7BF0000000000000584
+t1398917055
+s1412
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+c000000005361C7BF0000000000000476
+t1398917055
+s1142
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+c000000005361C7BF0000000000000620
+t1398917055
+s1568
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
+c000000005361C7BF0000000000000346
+t1398917055
+s838
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandDelegateImpl.o
+t1398919616
+s65852
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandQueue.o
+t1398919616
+s62040
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVConfigParser.o
+t1398919616
+s29048
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVInvokedUrlCommand.o
+t1398919612
+s18228
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVJSON.o
+t1398919616
+s10860
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVLocalStorage.o
+t1398919615
+s109252
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPlugin.o
+t1398919614
+s56724
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPluginResult.o
+t1398919613
+s36508
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVShared.o
+t1398919616
+s9084
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVTimer.o
+t1398919616
+s22844
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVURLProtocol.o
+t1398919614
+s70664
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVUserAgentUtil.o
+t1398919616
+s52492
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVViewController.o
+t1398919616
+s178608
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWebViewDelegate.o
+t1398919616
+s70284
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWhitelist.o
+t1398919613
+s44844
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/Cordova.LinkFileList
+c000000005361D1B90000000000000B8B
+t1398919609
+s2955
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSArray+Comparisons.o
+t1398919615
+s7312
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSData+Base64.o
+t1398919612
+s10456
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSDictionary+Extensions.o
+t1398919612
+s17076
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSMutableArray+QueueAdditions.o
+t1398919613
+s6872
+
+N/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/UIDevice+Extensions.o
+t1398919615
+s9348
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDV.h
+t2
+s0
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVAvailability.h
+t2
+s0
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h
+t2
+s0
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVCommandDelegateImpl.h
+t2
+s0
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h
+t2
+s0
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVConfigParser.h
+t2
+s0
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVDebug.h
+t2
+s0
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h
+t2
+s0
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVJSON.h
+t2
+s0
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVLocalStorage.h
+t2
+s0
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVPlugin.h
+t2
+s0
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVPluginResult.h
+t2
+s0
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h
+t2
+s0
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVShared.h
+t2
+s0
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVTimer.h
+t2
+s0
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVURLProtocol.h
+t2
+s0
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVUserAgentUtil.h
+t2
+s0
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVViewController.h
+t2
+s0
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVWebViewDelegate.h
+t2
+s0
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVWhitelist.h
+t2
+s0
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/NSArray+Comparisons.h
+t2
+s0
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/NSData+Base64.h
+t2
+s0
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/NSDictionary+Extensions.h
+t2
+s0
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h
+t2
+s0
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/UIDevice+Extensions.h
+t2
+s0
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/device/libCordova.a
+t2
+s0
+
+N/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-bnwokhqztnlehffyozmicoxbckfd/CordovaLib_Prefix.pch.pch
+t1398919611
+s3182724
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies177ef0380912b941^9eb761390912b941^---0#1#1#--18"Check dependencies36"ADAE72D9-89BC-46DD-BA0F-793006F764D9-
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandDelegateImpl.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420612416.069259
+e420612416.531063
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandDelegateImpl.o
+x/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m227"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandDelegateImpl.o [1mClasses/CDVCommandDelegateImpl.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler371812400912b941^7cf387400912b941^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m0000000000000000^3528"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandDelegateImpl.o [1mClasses/CDVCommandDelegateImpl.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=162 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Chris/Sites/foodmood/platforms/ios/build/device -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-bnwokhqztnlehffyozmicoxbckfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandDelegateImpl.d --serialize-diagnostics /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandDelegateImpl.dia -c /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m -o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandDelegateImpl.o36"223B141A-C761-4712-8E64-28A6F16D51BC-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandQueue.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420612415.719974
+e420612416.170804
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandQueue.o
+x/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m213"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandQueue.o [1mClasses/CDVCommandQueue.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler4069b83f0912b941^1fbf27400912b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m0000000000000000^3486"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandQueue.o [1mClasses/CDVCommandQueue.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=162 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Chris/Sites/foodmood/platforms/ios/build/device -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-bnwokhqztnlehffyozmicoxbckfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandQueue.d --serialize-diagnostics /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandQueue.dia -c /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m -o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandQueue.o36"9FF155E9-2F17-4F09-93DC-448C64C77780-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVConfigParser.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420612416.171320
+e420612416.229864
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVConfigParser.o
+x/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVConfigParser.m213"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVConfigParser.o [1mClasses/CDVConfigParser.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler9e062c400912b941^1bd83a400912b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVConfigParser.m0000000000000000^3486"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVConfigParser.o [1mClasses/CDVConfigParser.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=162 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Chris/Sites/foodmood/platforms/ios/build/device -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-bnwokhqztnlehffyozmicoxbckfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVConfigParser.d --serialize-diagnostics /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVConfigParser.dia -c /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVConfigParser.m -o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVConfigParser.o36"54EE98FD-A26E-4C54-8D51-22818FCA9E6E-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVInvokedUrlCommand.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420612411.663674
+e420612412.725168
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVInvokedUrlCommand.o
+x/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m223"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVInvokedUrlCommand.o [1mClasses/CDVInvokedUrlCommand.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler0a2eaa3b0912b941^48a4b93c0912b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m0000000000000000^3516"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVInvokedUrlCommand.o [1mClasses/CDVInvokedUrlCommand.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=162 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Chris/Sites/foodmood/platforms/ios/build/device -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-bnwokhqztnlehffyozmicoxbckfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVInvokedUrlCommand.d --serialize-diagnostics /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVInvokedUrlCommand.dia -c /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m -o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVInvokedUrlCommand.o36"60AFB467-1DDB-4CE2-8C06-721ECEC6701B-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVJSON.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVJSON.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420612416.231422
+e420612416.276329
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVJSON.o
+x/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVJSON.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVJSON.m
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVJSON.m197"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVJSON.o [1mClasses/CDVJSON.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler3f573b400912b941^4f0647400912b941^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVJSON.m0000000000000000^3438"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVJSON.o [1mClasses/CDVJSON.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=162 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Chris/Sites/foodmood/platforms/ios/build/device -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-bnwokhqztnlehffyozmicoxbckfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVJSON.d --serialize-diagnostics /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVJSON.dia -c /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVJSON.m -o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVJSON.o36"895F30A0-0A1B-417A-8358-B7CC57A59EDB-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVLocalStorage.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420612414.592028
+e420612415.164308
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVLocalStorage.o
+x/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m213"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVLocalStorage.o [1mClasses/CDVLocalStorage.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerebab973e0912b941^f1102a3f0912b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m0000000000000000^3486"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVLocalStorage.o [1mClasses/CDVLocalStorage.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=162 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Chris/Sites/foodmood/platforms/ios/build/device -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-bnwokhqztnlehffyozmicoxbckfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVLocalStorage.d --serialize-diagnostics /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVLocalStorage.dia -c /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m -o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVLocalStorage.o36"1E5507CA-E0FB-4113-A96E-D7E44F72C614-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPlugin.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420612412.770873
+e420612414.468606
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPlugin.o
+x/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVPlugin.m201"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPlugin.o [1mClasses/CDVPlugin.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilere371c53c0912b941^5ef6773e0912b941^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVPlugin.m0000000000000000^3450"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPlugin.o [1mClasses/CDVPlugin.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=162 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Chris/Sites/foodmood/platforms/ios/build/device -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-bnwokhqztnlehffyozmicoxbckfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPlugin.d --serialize-diagnostics /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPlugin.dia -c /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVPlugin.m -o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPlugin.o36"D845728C-0A1C-4916-9EAC-B3CE159BB62E-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPluginResult.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420612412.726556
+e420612413.089230
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPluginResult.o
+x/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVPluginResult.m213"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPluginResult.o [1mClasses/CDVPluginResult.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler7619ba3c0912b941^05e1163d0912b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVPluginResult.m0000000000000000^3486"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPluginResult.o [1mClasses/CDVPluginResult.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=162 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Chris/Sites/foodmood/platforms/ios/build/device -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-bnwokhqztnlehffyozmicoxbckfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPluginResult.d --serialize-diagnostics /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPluginResult.dia -c /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVPluginResult.m -o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPluginResult.o36"33C7C6C6-09CA-4E6C-89D7-004D1C2362FF-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVShared.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVShared.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420612416.872925
+e420612416.992561
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVShared.o
+x/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVShared.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVShared.m
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVShared.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVShared.m201"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVShared.o [1mClasses/CDVShared.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerfb90df400912b941^560dfe400912b941^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVShared.m0000000000000000^3450"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVShared.o [1mClasses/CDVShared.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=162 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Chris/Sites/foodmood/platforms/ios/build/device -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-bnwokhqztnlehffyozmicoxbckfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVShared.d --serialize-diagnostics /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVShared.dia -c /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVShared.m -o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVShared.o36"725BAACF-46DB-426F-8A25-A0FAF4E5E9BC-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVTimer.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVTimer.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420612416.814329
+e420612416.872568
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVTimer.o
+x/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVTimer.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVTimer.m
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVTimer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVTimer.m199"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVTimer.o [1mClasses/CDVTimer.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler3a95d0400912b941^4697df400912b941^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVTimer.m0000000000000000^3444"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVTimer.o [1mClasses/CDVTimer.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=162 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Chris/Sites/foodmood/platforms/ios/build/device -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-bnwokhqztnlehffyozmicoxbckfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVTimer.d --serialize-diagnostics /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVTimer.dia -c /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVTimer.m -o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVTimer.o36"386F10BD-8A6B-407D-8F62-938DCA38E054-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVURLProtocol.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420612413.344295
+e420612414.591499
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVURLProtocol.o
+x/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m211"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVURLProtocol.o [1mClasses/CDVURLProtocol.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerd652583d0912b941^ef8f973e0912b941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m0000000000000000^3480"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVURLProtocol.o [1mClasses/CDVURLProtocol.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=162 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Chris/Sites/foodmood/platforms/ios/build/device -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-bnwokhqztnlehffyozmicoxbckfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVURLProtocol.d --serialize-diagnostics /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVURLProtocol.dia -c /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m -o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVURLProtocol.o36"1641E7E3-E4FF-45CC-B624-A1273E156F2E-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVUserAgentUtil.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420612416.276693
+e420612416.634247
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVUserAgentUtil.o
+x/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m215"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVUserAgentUtil.o [1mClasses/CDVUserAgentUtil.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerc3ef46400912b941^1b83a2400912b941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m0000000000000000^3492"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVUserAgentUtil.o [1mClasses/CDVUserAgentUtil.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=162 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Chris/Sites/foodmood/platforms/ios/build/device -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-bnwokhqztnlehffyozmicoxbckfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVUserAgentUtil.d --serialize-diagnostics /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVUserAgentUtil.dia -c /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m -o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVUserAgentUtil.o36"B6E4B4B8-9F16-467E-8236-78E250E27360-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVViewController.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420612414.468949
+e420612416.068929
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVViewController.o
+x/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVViewController.m
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVViewController.m217"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVViewController.o [1mClasses/CDVViewController.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerdc83783e0912b941^50a611400912b941^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVViewController.m0000000000000000^3498"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVViewController.o [1mClasses/CDVViewController.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=162 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Chris/Sites/foodmood/platforms/ios/build/device -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-bnwokhqztnlehffyozmicoxbckfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVViewController.d --serialize-diagnostics /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVViewController.dia -c /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVViewController.m -o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVViewController.o36"3DD5CBEE-24AC-4B94-9863-71FAEC6CAD5E-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWebViewDelegate.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420612416.531409
+e420612416.813976
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWebViewDelegate.o
+x/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m219"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWebViewDelegate.o [1mClasses/CDVWebViewDelegate.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilere62488400912b941^f965d0400912b941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m0000000000000000^3504"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWebViewDelegate.o [1mClasses/CDVWebViewDelegate.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=162 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Chris/Sites/foodmood/platforms/ios/build/device -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-bnwokhqztnlehffyozmicoxbckfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWebViewDelegate.d --serialize-diagnostics /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWebViewDelegate.dia -c /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m -o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWebViewDelegate.o36"763775BB-D710-4DB9-ADB8-4AA3A3FD2247-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWhitelist.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420612413.189579
+e420612413.344007
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWhitelist.o
+x/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVWhitelist.m207"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWhitelist.o [1mClasses/CDVWhitelist.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler1cb3303d0912b941^b22c583d0912b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVWhitelist.m0000000000000000^3468"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWhitelist.o [1mClasses/CDVWhitelist.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=162 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Chris/Sites/foodmood/platforms/ios/build/device -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-bnwokhqztnlehffyozmicoxbckfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWhitelist.d --serialize-diagnostics /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWhitelist.dia -c /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVWhitelist.m -o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWhitelist.o36"EEF7326A-37EA-42DB-A54E-E9FFD1E7FB77-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSArray+Comparisons.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420612415.686613
+e420612415.719554
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSArray+Comparisons.o
+x/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m221"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSArray+Comparisons.o [1mClasses/NSArray+Comparisons.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilera5f5af3f0912b941^4739b83f0912b941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m0000000000000000^3510"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSArray+Comparisons.o [1mClasses/NSArray+Comparisons.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=162 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Chris/Sites/foodmood/platforms/ios/build/device -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-bnwokhqztnlehffyozmicoxbckfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSArray+Comparisons.d --serialize-diagnostics /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSArray+Comparisons.dia -c /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m -o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSArray+Comparisons.o36"CD426FB5-ACB2-4A4F-9186-D953F06DF28F-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSData+Base64.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420612412.662468
+e420612412.770571
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSData+Base64.o
+x/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSData+Base64.m209"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSData+Base64.o [1mClasses/NSData+Base64.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler2a1baa3c0912b941^e484c53c0912b941^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSData+Base64.m0000000000000000^3474"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSData+Base64.o [1mClasses/NSData+Base64.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=162 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Chris/Sites/foodmood/platforms/ios/build/device -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-bnwokhqztnlehffyozmicoxbckfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSData+Base64.d --serialize-diagnostics /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSData+Base64.dia -c /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSData+Base64.m -o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSData+Base64.o36"987F7BD4-84C5-45FB-AE97-DE72E25581FE-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSDictionary+Extensions.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420612411.663665
+e420612412.662077
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSDictionary+Extensions.o
+x/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m229"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSDictionary+Extensions.o [1mClasses/NSDictionary+Extensions.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerde01aa3b0912b941^5a9ca93c0912b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m0000000000000000^3534"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSDictionary+Extensions.o [1mClasses/NSDictionary+Extensions.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=162 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Chris/Sites/foodmood/platforms/ios/build/device -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-bnwokhqztnlehffyozmicoxbckfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSDictionary+Extensions.d --serialize-diagnostics /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSDictionary+Extensions.dia -c /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m -o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSDictionary+Extensions.o36"456E8B84-7803-4F10-91F4-7C8D43232A95-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSMutableArray+QueueAdditions.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420612413.089925
+e420612413.189079
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSMutableArray+QueueAdditions.o
+x/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m241"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSMutableArray+QueueAdditions.o [1mClasses/NSMutableArray+QueueAdditions.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilera530173d0912b941^af5f303d0912b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m0000000000000000^3570"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSMutableArray+QueueAdditions.o [1mClasses/NSMutableArray+QueueAdditions.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=162 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Chris/Sites/foodmood/platforms/ios/build/device -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-bnwokhqztnlehffyozmicoxbckfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSMutableArray+QueueAdditions.d --serialize-diagnostics /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSMutableArray+QueueAdditions.dia -c /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m -o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSMutableArray+QueueAdditions.o36"75C9207D-19F6-4719-9181-F1D2BA3F6252-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/UIDevice+Extensions.o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420612415.164618
+e420612415.685720
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/UIDevice+Extensions.o
+x/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m221"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/UIDevice+Extensions.o [1mClasses/UIDevice+Extensions.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler2e3d2a3f0912b941^6d8eaf3f0912b941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m0000000000000000^3510"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/UIDevice+Extensions.o [1mClasses/UIDevice+Extensions.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=162 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Chris/Sites/foodmood/platforms/ios/build/device -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-bnwokhqztnlehffyozmicoxbckfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/UIDevice+Extensions.d --serialize-diagnostics /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/UIDevice+Extensions.dia -c /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m -o /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/UIDevice+Extensions.o36"0892B734-4156-47B0-9D26-B932E4C698CB-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCpHeader Classes/CDV.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDV.h
+s420612409.493211
+e420612409.495390
+r1
+xCpHeader
+xClasses/CDV.h
+x/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDV.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDV.h115"[1mCpHeader[0m Classes/CDV.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDV.h[0m65537e390912b941^58ab7e390912b941^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDV.h00340070ddffdf42^651"[1mCpHeader[0m Classes/CDV.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDV.h[0m    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDV.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova36"2600B991-08DD-410A-8637-C73C05E378D5-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCpHeader Classes/CDVAvailability.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVAvailability.h
+s420612409.495669
+e420612409.522307
+r1
+xCpHeader
+xClasses/CDVAvailability.h
+x/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVAvailability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVAvailability.h139"[1mCpHeader[0m Classes/CDVAvailability.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVAvailability.h[0m66147f390912b941^600687390912b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVAvailability.h00340070ddffdf42^687"[1mCpHeader[0m Classes/CDVAvailability.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVAvailability.h[0m    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVAvailability.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova36"C666ADAD-4ADF-4F4D-8836-3160B72E8112-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCpHeader Classes/CDVCommandDelegate.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h
+s420612409.491438
+e420612409.492732
+r1
+xCpHeader
+xClasses/CDVCommandDelegate.h
+x/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Copy /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h145"[1mCpHeader[0m Classes/CDVCommandDelegate.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h[0m55df7d390912b941^23857e390912b941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h00340070ddffdf42^696"[1mCpHeader[0m Classes/CDVCommandDelegate.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h[0m    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova36"92C26A5E-26BB-4813-9847-0914AF1C802B-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCpHeader Classes/CDVCommandDelegateImpl.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVCommandDelegateImpl.h
+s420612409.525672
+e420612409.530490
+r1
+xCpHeader
+xClasses/CDVCommandDelegateImpl.h
+x/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVCommandDelegateImpl.h153"[1mCpHeader[0m Classes/CDVCommandDelegateImpl.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVCommandDelegateImpl.h[0md49e86390912b941^6ceb87390912b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVCommandDelegateImpl.h00340070ddffdf42^708"[1mCpHeader[0m Classes/CDVCommandDelegateImpl.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVCommandDelegateImpl.h[0m    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova36"7AE4E5BA-E452-4483-8E8D-4B1981FCFEF1-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCpHeader Classes/CDVCommandQueue.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h
+s420612409.524253
+e420612409.525532
+r1
+xCpHeader
+xClasses/CDVCommandQueue.h
+x/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h139"[1mCpHeader[0m Classes/CDVCommandQueue.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h[0me94486390912b941^0c3c87390912b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h00340070ddffdf42^687"[1mCpHeader[0m Classes/CDVCommandQueue.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h[0m    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova36"50F5F569-A722-4C79-86A8-57EACD0F19CE-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCpHeader Classes/CDVConfigParser.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVConfigParser.h
+s420612409.534636
+e420612409.538861
+r1
+xCpHeader
+xClasses/CDVConfigParser.h
+x/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVConfigParser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVConfigParser.h139"[1mCpHeader[0m Classes/CDVConfigParser.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVConfigParser.h[0m9d4789390912b941^0b968a390912b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVConfigParser.h00340070ddffdf42^687"[1mCpHeader[0m Classes/CDVConfigParser.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVConfigParser.h[0m    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVConfigParser.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova36"7D2E988B-BBEC-40B7-9F48-E3B475FE700D-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCpHeader Classes/CDVDebug.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVDebug.h
+s420612409.481697
+e420612409.482848
+r1
+xCpHeader
+xClasses/CDVDebug.h
+x/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVDebug.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Copy /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVDebug.h125"[1mCpHeader[0m Classes/CDVDebug.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVDebug.h[0med617b390912b941^feba7b390912b941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVDebug.h00340070ddffdf42^666"[1mCpHeader[0m Classes/CDVDebug.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVDebug.h[0m    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVDebug.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova36"595C78B1-4A97-4CD8-BB06-DA85D9BF858F-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCpHeader Classes/CDVInvokedUrlCommand.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h
+s420612409.379856
+e420612409.430706
+r1
+xCpHeader
+xClasses/CDVInvokedUrlCommand.h
+x/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Copy /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h149"[1mCpHeader[0m Classes/CDVInvokedUrlCommand.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h[0m1d9361390912b941^2aaa6e390912b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h00340070ddffdf42^702"[1mCpHeader[0m Classes/CDVInvokedUrlCommand.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h[0m    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova36"3D3F9270-EC7B-4E69-A993-F6548CF6F6F5-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCpHeader Classes/CDVJSON.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVJSON.h
+s420612409.539684
+e420612409.560222
+r1
+xCpHeader
+xClasses/CDVJSON.h
+x/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVJSON.h123"[1mCpHeader[0m Classes/CDVJSON.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVJSON.h[0m15718a390912b941^0b9b91390912b941^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVJSON.h00340070ddffdf42^663"[1mCpHeader[0m Classes/CDVJSON.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVJSON.h[0m    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVJSON.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova36"3E18E01D-4C05-4B40-9EC8-624B0D85D584-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCpHeader Classes/CDVLocalStorage.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVLocalStorage.h
+s420612409.495758
+e420612409.517468
+r1
+xCpHeader
+xClasses/CDVLocalStorage.h
+x/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVLocalStorage.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVLocalStorage.h139"[1mCpHeader[0m Classes/CDVLocalStorage.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVLocalStorage.h[0m51117f390912b941^f05286390912b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVLocalStorage.h00340070ddffdf42^687"[1mCpHeader[0m Classes/CDVLocalStorage.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVLocalStorage.h[0m    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova36"CE694FA7-9338-4804-8280-9416A316232C-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCpHeader Classes/CDVPlugin.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVPlugin.h
+s420612409.433058
+e420612409.480997
+r1
+xCpHeader
+xClasses/CDVPlugin.h
+x/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVPlugin.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Copy /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVPlugin.h127"[1mCpHeader[0m Classes/CDVPlugin.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVPlugin.h[0mc8ea6e390912b941^cb2f7b390912b941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVPlugin.h00340070ddffdf42^669"[1mCpHeader[0m Classes/CDVPlugin.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVPlugin.h[0m    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVPlugin.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova36"96F2E847-89B2-499E-B800-C0A4B9375853-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCpHeader Classes/CDVPluginResult.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVPluginResult.h
+s420612409.431011
+e420612409.480986
+r1
+xCpHeader
+xClasses/CDVPluginResult.h
+x/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVPluginResult.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVPluginResult.h139"[1mCpHeader[0m Classes/CDVPluginResult.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVPluginResult.h[0m516b6e390912b941^7c267b390912b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVPluginResult.h00340070ddffdf42^687"[1mCpHeader[0m Classes/CDVPluginResult.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVPluginResult.h[0m    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVPluginResult.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova36"C554DF08-D0C5-40C1-8BE1-F5F6816AE06A-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCpHeader Classes/CDVScreenOrientationDelegate.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h
+s420612409.531983
+e420612409.534470
+r1
+xCpHeader
+xClasses/CDVScreenOrientationDelegate.h
+x/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Copy /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h165"[1mCpHeader[0m Classes/CDVScreenOrientationDelegate.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h[0m603f88390912b941^376e89390912b941^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h00340070ddffdf42^726"[1mCpHeader[0m Classes/CDVScreenOrientationDelegate.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h[0m    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova36"F606A78F-BBAF-41F0-B57E-696C48DC7C57-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCpHeader Classes/CDVShared.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVShared.h
+s420612409.530765
+e420612409.534937
+r1
+xCpHeader
+xClasses/CDVShared.h
+x/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVShared.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Copy /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVShared.h127"[1mCpHeader[0m Classes/CDVShared.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVShared.h[0m147788390912b941^be2f8a390912b941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVShared.h00340070ddffdf42^669"[1mCpHeader[0m Classes/CDVShared.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVShared.h[0m    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVShared.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova36"5B46BB3A-9327-4728-A9B1-294496AF52F1-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCpHeader Classes/CDVTimer.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVTimer.h
+s420612409.562832
+e420612409.563953
+r1
+xCpHeader
+xClasses/CDVTimer.h
+x/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVTimer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Copy /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVTimer.h125"[1mCpHeader[0m Classes/CDVTimer.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVTimer.h[0m462690390912b941^1ea691390912b941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVTimer.h00340070ddffdf42^666"[1mCpHeader[0m Classes/CDVTimer.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVTimer.h[0m    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVTimer.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova36"281EA5F1-75FE-4E3B-8F6C-127D0EBCBC18-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCpHeader Classes/CDVURLProtocol.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVURLProtocol.h
+s420612409.487084
+e420612409.488526
+r1
+xCpHeader
+xClasses/CDVURLProtocol.h
+x/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVURLProtocol.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVURLProtocol.h137"[1mCpHeader[0m Classes/CDVURLProtocol.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVURLProtocol.h[0m3bc77c390912b941^af797d390912b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVURLProtocol.h00340070ddffdf42^684"[1mCpHeader[0m Classes/CDVURLProtocol.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVURLProtocol.h[0m    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova36"1575F84D-7B2F-41C4-8DD2-28F35E608B8E-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCpHeader Classes/CDVUserAgentUtil.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVUserAgentUtil.h
+s420612409.559531
+e420612409.561152
+r1
+xCpHeader
+xClasses/CDVUserAgentUtil.h
+x/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVUserAgentUtil.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVUserAgentUtil.h141"[1mCpHeader[0m Classes/CDVUserAgentUtil.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVUserAgentUtil.h[0mce558f390912b941^27a091390912b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVUserAgentUtil.h00340070ddffdf42^690"[1mCpHeader[0m Classes/CDVUserAgentUtil.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVUserAgentUtil.h[0m    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova36"CA5427FD-3503-4EC3-9106-C5ACCAF52FF0-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCpHeader Classes/CDVViewController.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVViewController.h
+s420612409.488753
+e420612409.489780
+r1
+xCpHeader
+xClasses/CDVViewController.h
+x/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVViewController.h143"[1mCpHeader[0m Classes/CDVViewController.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVViewController.h[0m1f2e7d390912b941^83dc7d390912b941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVViewController.h00340070ddffdf42^693"[1mCpHeader[0m Classes/CDVViewController.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVViewController.h[0m    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVViewController.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova36"117E4463-C71F-4E4C-A2BF-8ADE1E13A3BD-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCpHeader Classes/CDVWebViewDelegate.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVWebViewDelegate.h
+s420612409.539047
+e420612409.559342
+r1
+xCpHeader
+xClasses/CDVWebViewDelegate.h
+x/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVWebViewDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Copy /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVWebViewDelegate.h145"[1mCpHeader[0m Classes/CDVWebViewDelegate.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVWebViewDelegate.h[0m560d8a390912b941^b55290390912b941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVWebViewDelegate.h00340070ddffdf42^696"[1mCpHeader[0m Classes/CDVWebViewDelegate.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVWebViewDelegate.h[0m    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova36"E9CEBF83-9704-41EF-AD1C-17E9CC14284B-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCpHeader Classes/CDVWhitelist.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVWhitelist.h
+s420612409.485815
+e420612409.489171
+r1
+xCpHeader
+xClasses/CDVWhitelist.h
+x/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVWhitelist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Copy /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVWhitelist.h133"[1mCpHeader[0m Classes/CDVWhitelist.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVWhitelist.h[0maf7a7c390912b941^a27c7d390912b941^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVWhitelist.h00340070ddffdf42^678"[1mCpHeader[0m Classes/CDVWhitelist.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/CDVWhitelist.h[0m    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/CDVWhitelist.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova36"C64D22FB-9FC8-4D49-A18F-AB7D2DA84B9E-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCpHeader Classes/NSArray+Comparisons.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/NSArray+Comparisons.h
+s420612409.523753
+e420612409.530821
+r1
+xCpHeader
+xClasses/NSArray+Comparisons.h
+x/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/NSArray+Comparisons.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/NSArray+Comparisons.h147"[1mCpHeader[0m Classes/NSArray+Comparisons.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/NSArray+Comparisons.h[0me29386390912b941^4f3b88390912b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/NSArray+Comparisons.h00340070ddffdf42^699"[1mCpHeader[0m Classes/NSArray+Comparisons.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/NSArray+Comparisons.h[0m    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova36"715CCD85-89B1-4623-A7F9-B572F2727987-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCpHeader Classes/NSData+Base64.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/NSData+Base64.h
+s420612409.382230
+e420612409.432758
+r1
+xCpHeader
+xClasses/NSData+Base64.h
+x/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/NSData+Base64.h135"[1mCpHeader[0m Classes/NSData+Base64.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/NSData+Base64.h[0mfbe761390912b941^6dc96e390912b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/NSData+Base64.h00340070ddffdf42^681"[1mCpHeader[0m Classes/NSData+Base64.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/NSData+Base64.h[0m    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSData+Base64.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova36"5E4CBAB1-97A7-4ADE-8C47-D638444B2ECA-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCpHeader Classes/NSDictionary+Extensions.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/NSDictionary+Extensions.h
+s420612409.379688
+e420612409.382016
+r1
+xCpHeader
+xClasses/NSDictionary+Extensions.h
+x/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/NSDictionary+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/NSDictionary+Extensions.h155"[1mCpHeader[0m Classes/NSDictionary+Extensions.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/NSDictionary+Extensions.h[0mac5761390912b941^8f6f63390912b941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/NSDictionary+Extensions.h00340070ddffdf42^711"[1mCpHeader[0m Classes/NSDictionary+Extensions.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/NSDictionary+Extensions.h[0m    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova36"E44332E7-9569-4F5E-B573-3F878FC303D8-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h
+s420612409.484461
+e420612409.486391
+r1
+xCpHeader
+xClasses/NSMutableArray+QueueAdditions.h
+x/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Copy /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h167"[1mCpHeader[0m Classes/NSMutableArray+QueueAdditions.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h[0m50187c390912b941^11a67c390912b941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h00340070ddffdf42^729"[1mCpHeader[0m Classes/NSMutableArray+QueueAdditions.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h[0m    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova36"B69548A4-1D90-494A-8D17-0B72C2448393-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CCpHeader Classes/UIDevice+Extensions.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/UIDevice+Extensions.h
+s420612409.519528
+e420612409.521031
+r1
+xCpHeader
+xClasses/UIDevice+Extensions.h
+x/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/UIDevice+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/UIDevice+Extensions.h147"[1mCpHeader[0m Classes/UIDevice+Extensions.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/UIDevice+Extensions.h[0m541a85390912b941^c50287390912b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/UIDevice+Extensions.h00340070ddffdf42^699"[1mCpHeader[0m Classes/UIDevice+Extensions.h [1m/Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova/UIDevice+Extensions.h[0m    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h /Users/Chris/Sites/foodmood/platforms/ios/build/device/include/Cordova36"EA202801-3AC5-4153-9ACF-A63E28D7288F-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CLibtool /Users/Chris/Sites/foodmood/platforms/ios/build/device/libCordova.a normal armv7
+s420612416.995693
+e420612417.097258
+r1
+xLibtool
+x/Users/Chris/Sites/foodmood/platforms/ios/build/device/libCordova.a
+xnormal
+xarmv7
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"[1mLibtool[0m /Users/Chris/Sites/foodmood/platforms/ios/build/device/libCordova.a normal armv796"[1mLibtool[0m /Users/Chris/Sites/foodmood/platforms/ios/build/device/libCordova.a normal armv74cfbfe400912b941^80f118410912b941^---0#0#1#--950"[1mLibtool[0m /Users/Chris/Sites/foodmood/platforms/ios/build/device/libCordova.a normal armv7    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export IPHONEOS_DEPLOYMENT_TARGET=6.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/Chris/Sites/foodmood/platforms/ios/build/device -filelist /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/Cordova.LinkFileList -o /Users/Chris/Sites/foodmood/platforms/ios/build/device/libCordova.a36"D29CF006-92DE-4D24-B142-B8ADA307AB48-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+
+CProcessPCH /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-bnwokhqztnlehffyozmicoxbckfd/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420612409.564919
+e420612411.661812
+r1
+xProcessPCH
+x/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-bnwokhqztnlehffyozmicoxbckfd/CordovaLib_Prefix.pch.pch
+xCordovaLib_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile CordovaLib_Prefix.pch300"[1mProcessPCH[0m /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-bnwokhqztnlehffyozmicoxbckfd/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler83be90390912b941^fd6ba93b0912b941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/CordovaLib_Prefix.pch0000000000000000^3508"[1mProcessPCH[0m /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-bnwokhqztnlehffyozmicoxbckfd/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=162 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Chris/Sites/foodmood/platforms/ios/build/device -DDEBUG --serialize-diagnostics /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-bnwokhqztnlehffyozmicoxbckfd/CordovaLib_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-bnwokhqztnlehffyozmicoxbckfd/CordovaLib_Prefix.pch.d -c /Users/Chris/Sites/foodmood/platforms/ios/CordovaLib/CordovaLib_Prefix.pch -o /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-bnwokhqztnlehffyozmicoxbckfd/CordovaLib_Prefix.pch.pch36"EA4B19FF-847D-4A9D-B4B8-73F99F1C797C-
+b23DFD8BD-208C-44FB-AF39-E564C73EB8F6
+

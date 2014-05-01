@@ -1,0 +1,816 @@
+THelloWorld
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/Info.plist /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/HelloWorld-Info.plist
+cPhaseScriptExecution Copy\ www\ directory /Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh
+cCpResource HelloWorld/Resources/icons/icon-76.png build/emulator/HelloWorld.app/icon-76.png
+cCpResource HelloWorld/Resources/icons/icon-40@2x.png build/emulator/HelloWorld.app/icon-40@2x.png
+cCpResource HelloWorld/Resources/icons/icon-72.png build/emulator/HelloWorld.app/icon-72.png
+cCpResource HelloWorld/Resources/icons/icon.png build/emulator/HelloWorld.app/icon.png
+cCpResource HelloWorld/Resources/icons/icon@2x.png build/emulator/HelloWorld.app/icon@2x.png
+cCopyStringsFile /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/en.lproj/Localizable.strings HelloWorld/Resources/en.lproj/Localizable.strings
+cCompileXIB /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Classes/MainViewController.xib
+cCpResource HelloWorld/Resources/icons/icon-50.png build/emulator/HelloWorld.app/icon-50.png
+cCpResource HelloWorld/Resources/icons/icon-60@2x.png build/emulator/HelloWorld.app/icon-60@2x.png
+cCopyStringsFile /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/de.lproj/Localizable.strings HelloWorld/Resources/de.lproj/Localizable.strings
+cCpResource HelloWorld/Resources/icons/icon-small.png build/emulator/HelloWorld.app/icon-small.png
+cCpResource HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png
+cCpResource HelloWorld/Resources/splash/Default-Landscape~ipad.png build/emulator/HelloWorld.app/Default-Landscape~ipad.png
+cCpResource HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png
+cCpResource HelloWorld/Resources/icons/icon-small@2x.png build/emulator/HelloWorld.app/icon-small@2x.png
+cCpResource HelloWorld/Resources/splash/Default-Portrait~ipad.png build/emulator/HelloWorld.app/Default-Portrait~ipad.png
+cCpResource HelloWorld/Resources/icons/icon-40.png build/emulator/HelloWorld.app/icon-40.png
+cCpResource HelloWorld/Resources/splash/Default@2x~iphone.png build/emulator/HelloWorld.app/Default@2x~iphone.png
+cCpResource HelloWorld/Resources/icons/icon-60.png build/emulator/HelloWorld.app/icon-60.png
+cCpResource HelloWorld/Resources/splash/Default~iphone.png build/emulator/HelloWorld.app/Default~iphone.png
+cCpResource HelloWorld/Resources/splash/Default-568h@2x~iphone.png build/emulator/HelloWorld.app/Default-568h@2x~iphone.png
+cCpResource HelloWorld/Resources/icons/icon-50@2x.png build/emulator/HelloWorld.app/icon-50@2x.png
+cCpResource HelloWorld/Resources/icons/icon-76@2x.png build/emulator/HelloWorld.app/icon-76@2x.png
+cCpResource HelloWorld/Resources/icons/icon-72@2x.png build/emulator/HelloWorld.app/icon-72@2x.png
+cProcessPCH /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-hiaiwqmjoqvkgpchcjuauuhflwvs/HelloWorld-Prefix.pch.pch HelloWorld/HelloWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/HelloWorld normal i386
+cGenerateDSYMFile /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app.dSYM /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/HelloWorld
+cTouch /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005361C65C00000000000003B4
+t1398916700
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005361C66D000000000000019E
+t1398916717
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c000000005361C66F0000000000059340
+t1398916719
+s365376
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005361C6710000000000446820
+t1398916721
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000005361C67200000000000F1A80
+t1398916722
+s989824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000005361C67700000000001BE790
+t1398916727
+s1828752
+
+N/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Classes/AppDelegate.m
+c000000005361C7BF00000000000013AB
+t1398917055
+s5035
+
+N/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Classes/MainViewController.m
+c000000005361C7BF000000000000126B
+t1398917055
+s4715
+
+N/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Classes/MainViewController.xib
+c000000005361C7BE0000000000001759
+t1398917054
+s5977
+
+N/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/HelloWorld-Info.plist
+c000000005361C7FF0000000000000A13
+t1398917119
+s2579
+
+N/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/HelloWorld-Prefix.pch
+c000000005361C7BF00000000000003C5
+t1398917055
+s965
+
+N/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/de.lproj/Localizable.strings
+c000000005361C7BE00000000000004C0
+t1398917054
+s1216
+
+N/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/en.lproj/Localizable.strings
+c000000005361C7BE00000000000004AB
+t1398917054
+s1195
+
+N/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/icons/icon-40.png
+c000000005361C7BE0000000000000FF2
+t1398917054
+s4082
+
+N/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/icons/icon-40@2x.png
+c000000005361C7BE0000000000001CF3
+t1398917054
+s7411
+
+N/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/icons/icon-50.png
+c000000005361C7BE000000000000130A
+t1398917054
+s4874
+
+N/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/icons/icon-50@2x.png
+c000000005361C7BE000000000000258B
+t1398917054
+s9611
+
+N/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/icons/icon-60.png
+c000000005361C7BE00000000000016B3
+t1398917054
+s5811
+
+N/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/icons/icon-60@2x.png
+c000000005361C7BE0000000000002E94
+t1398917054
+s11924
+
+N/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/icons/icon-72.png
+c000000005361C7BE0000000000001350
+t1398917054
+s4944
+
+N/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/icons/icon-72@2x.png
+c000000005361C7BE0000000000002DBA
+t1398917054
+s11706
+
+N/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/icons/icon-76.png
+c000000005361C7BE0000000000001B71
+t1398917054
+s7025
+
+N/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/icons/icon-76@2x.png
+c000000005361C7BE0000000000003B9E
+t1398917054
+s15262
+
+N/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/icons/icon-small.png
+c000000005361C7BE0000000000000CDE
+t1398917054
+s3294
+
+N/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/icons/icon-small@2x.png
+c000000005361C7BE00000000000015E8
+t1398917054
+s5608
+
+N/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/icons/icon.png
+c000000005361C7BE0000000000000F3E
+t1398917054
+s3902
+
+N/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/icons/icon@2x.png
+c000000005361C7BE0000000000001EBD
+t1398917054
+s7869
+
+N/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/splash/Default-568h@2x~iphone.png
+c000000005361C7BE00000000000085B1
+t1398917054
+s34225
+
+N/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png
+c000000005361C7BE0000000000033D0A
+t1398917054
+s212234
+
+N/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/splash/Default-Landscape~ipad.png
+c000000005361C7BE00000000000166A2
+t1398917054
+s91810
+
+N/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png
+c000000005361C7BF0000000000033F7C
+t1398917055
+s212860
+
+N/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/splash/Default-Portrait~ipad.png
+c000000005361C7BF0000000000016641
+t1398917055
+s91713
+
+N/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/splash/Default@2x~iphone.png
+c000000005361C7BF0000000000007323
+t1398917055
+s29475
+
+N/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/splash/Default~iphone.png
+c000000005361C7BF000000000000289A
+t1398917055
+s10394
+
+N/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/main.m
+c000000005361C7BF000000000000045C
+t1398917055
+s1116
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o
+t1398917155
+s73932
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList
+c000000005361C80A000000000000019E
+t1398917130
+s414
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o
+t1398917155
+s51512
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
+t1398917155
+s2940
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh
+c000000005361C80A000000000000002D
+t1398917130
+s45
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app
+t1398917157
+s1020
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app.dSYM
+t2
+s0
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/Default-568h@2x~iphone.png
+t1398917131
+s34225
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png
+t1398917131
+s212234
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/Default-Landscape~ipad.png
+t1398917131
+s91810
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png
+t1398917131
+s212860
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/Default-Portrait~ipad.png
+t1398917131
+s91713
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/Default@2x~iphone.png
+t1398917131
+s29475
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/Default~iphone.png
+t1398917131
+s10394
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/HelloWorld
+t1398917157
+s271712
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/Info.plist
+t1398917130
+s1287
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/MainViewController.nib
+t1398917154
+s836
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/PkgInfo
+t2
+s0
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/de.lproj/Localizable.strings
+t1398917131
+s280
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/en.lproj/Localizable.strings
+t1398917131
+s166
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/icon-40.png
+t1398917131
+s4082
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/icon-40@2x.png
+t1398917131
+s7411
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/icon-50.png
+t1398917131
+s4874
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/icon-50@2x.png
+t1398917131
+s9611
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/icon-60.png
+t1398917131
+s5811
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/icon-60@2x.png
+t1398917131
+s11924
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/icon-72.png
+t1398917131
+s4944
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/icon-72@2x.png
+t1398917131
+s11706
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/icon-76.png
+t1398917131
+s7025
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/icon-76@2x.png
+t1398917131
+s15262
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/icon-small.png
+t1398917131
+s3294
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/icon-small@2x.png
+t1398917131
+s5608
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/icon.png
+t1398917131
+s3902
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/icon@2x.png
+t1398917131
+s7869
+
+N/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/libCordova.a
+c000000005361C80A00000000000D3558
+t1398917130
+s865624
+
+N/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-hiaiwqmjoqvkgpchcjuauuhflwvs/HelloWorld-Prefix.pch.pch
+t1398917155
+s5376400
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies3b3ad28aff11b941^06b9d38aff11b941^---0#1#1#--18"Check dependencies36"C02712A0-E7EC-4280-8BA2-D3CA1745E8FE-
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420609955.209355
+e420609955.301391
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o
+x/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Classes/AppDelegate.m
+d/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Classes/AppDelegate.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Classes/MainViewController.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Classes/AppDelegate.m221"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o [1mHelloWorld/Classes/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerafb335a3ff11b941^3f3a4da3ff11b941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Classes/AppDelegate.m0000000000000000^3675"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o [1mHelloWorld/Classes/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Chris/Sites/foodmood/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=162 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include -I/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Chris/Sites/foodmood/platforms/ios/build/UninstalledProducts/include -I/Users/Chris/Sites/foodmood/platforms/ios/build/emulator -I/Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/Chris/Sites/foodmood/platforms/ios/build/emulator -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-hiaiwqmjoqvkgpchcjuauuhflwvs/HelloWorld-Prefix.pch -MMD -MT dependencies -MF /Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.dia -c /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Classes/AppDelegate.m -o /Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o36"4A044A72-130F-408B-AFD0-F8C925E7EAD7-
+b1187E77C-7523-497B-A9A9-93D2CEC95C7A
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420609955.236758
+e420609955.308897
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o
+x/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Classes/MainViewController.m
+d/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Classes/MainViewController.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Classes/MainViewController.m235"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o [1mHelloWorld/Classes/MainViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler35b53ca3ff11b941^66144fa3ff11b941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Classes/MainViewController.m0000000000000000^3717"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o [1mHelloWorld/Classes/MainViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Chris/Sites/foodmood/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=162 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include -I/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Chris/Sites/foodmood/platforms/ios/build/UninstalledProducts/include -I/Users/Chris/Sites/foodmood/platforms/ios/build/emulator -I/Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/Chris/Sites/foodmood/platforms/ios/build/emulator -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-hiaiwqmjoqvkgpchcjuauuhflwvs/HelloWorld-Prefix.pch -MMD -MT dependencies -MF /Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.dia -c /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Classes/MainViewController.m -o /Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o36"05315B4E-A28E-404F-8E70-03BC9F85B1ED-
+b1187E77C-7523-497B-A9A9-93D2CEC95C7A
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420609955.208715
+e420609955.236476
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
+x/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/main.m199"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o [1mHelloWorld/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler438e35a3ff11b941^aebc3ca3ff11b941^---0#0#1#-19%DVTDocumentLocation2@66"file:///Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/main.m0000000000000000^3617"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o [1mHelloWorld/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Chris/Sites/foodmood/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=162 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include -I/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Chris/Sites/foodmood/platforms/ios/build/UninstalledProducts/include -I/Users/Chris/Sites/foodmood/platforms/ios/build/emulator -I/Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/Chris/Sites/foodmood/platforms/ios/build/emulator -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-hiaiwqmjoqvkgpchcjuauuhflwvs/HelloWorld-Prefix.pch -MMD -MT dependencies -MF /Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.dia -c /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/main.m -o /Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o36"8CE33C06-10CE-43C2-9D44-C57A3FC95326-
+b1187E77C-7523-497B-A9A9-93D2CEC95C7A
+
+CCompileXIB /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Classes/MainViewController.xib
+s420609931.264865
+e420609954.645655
+r1
+xCompileXIB
+x/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Classes/MainViewController.xib
+o2014-04-30 21:05:52.684 Interface Builder Cocoa Touch Tool[4558:303] CFPreferences: user home directory at file:///var/root/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compiling /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Classes/MainViewController.xib68"[1mCompileXIB[0m [1mHelloWorld/Classes/MainViewController.xib[0m47e4438bff11b941^e751a5a2ff11b941^-226"2014-04-30 21:05:52.684 Interface Builder Cocoa Touch Tool[4558:303] CFPreferences: user home directory at file:///var/root/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@90"file:///Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Classes/MainViewController.xib0000000000000000^834"[1mCompileXIB[0m [1mHelloWorld/Classes/MainViewController.xib[0m    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.0 --output-format human-readable-text --compile /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/MainViewController.nib /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Classes/MainViewController.xib36"11772F1D-3077-4C1B-88CF-212E5563D251-
+b1187E77C-7523-497B-A9A9-93D2CEC95C7A
+
+CCopyStringsFile /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/de.lproj/Localizable.strings HelloWorld/Resources/de.lproj/Localizable.strings
+s420609931.268401
+e420609931.299513
+r1
+xCopyStringsFile
+x/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/de.lproj/Localizable.strings
+xHelloWorld/Resources/de.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy HelloWorld/Resources/de.lproj/Localizable.strings132"[1mCopyStringsFile[0m build/emulator/HelloWorld.app/de.lproj/Localizable.strings HelloWorld/Resources/de.lproj/Localizable.stringsfbc9448bff11b941^dcd84c8bff11b941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/de.lproj/Localizable.strings0000000000000000^638"[1mCopyStringsFile[0m build/emulator/HelloWorld.app/de.lproj/Localizable.strings HelloWorld/Resources/de.lproj/Localizable.strings    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/de.lproj -- HelloWorld/Resources/de.lproj/Localizable.strings36"D14179FB-9714-4FFF-A734-7A0FECB2EC83-
+b1187E77C-7523-497B-A9A9-93D2CEC95C7A
+
+CCopyStringsFile /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/en.lproj/Localizable.strings HelloWorld/Resources/en.lproj/Localizable.strings
+s420609931.263216
+e420609931.264966
+r1
+xCopyStringsFile
+x/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/en.lproj/Localizable.strings
+xHelloWorld/Resources/en.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy HelloWorld/Resources/en.lproj/Localizable.strings132"[1mCopyStringsFile[0m build/emulator/HelloWorld.app/en.lproj/Localizable.strings HelloWorld/Resources/en.lproj/Localizable.strings5874438bff11b941^dcd5438bff11b941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/en.lproj/Localizable.strings0000000000000000^638"[1mCopyStringsFile[0m build/emulator/HelloWorld.app/en.lproj/Localizable.strings HelloWorld/Resources/en.lproj/Localizable.strings    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/en.lproj -- HelloWorld/Resources/en.lproj/Localizable.strings36"E41D7F86-A698-4A6C-8623-E777CD8F38D1-
+b1187E77C-7523-497B-A9A9-93D2CEC95C7A
+
+CCpResource HelloWorld/Resources/icons/icon-40.png build/emulator/HelloWorld.app/icon-40.png
+s420609931.337412
+e420609931.338060
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-40.png
+xbuild/emulator/HelloWorld.app/icon-40.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/HelloWorld.app/icon-40.png99"[1mCpResource[0m HelloWorld/Resources/icons/icon-40.png build/emulator/HelloWorld.app/icon-40.png6a6d568bff11b941^a08b568bff11b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/icon-40.png00340070ddffdf42^646"[1mCpResource[0m HelloWorld/Resources/icons/icon-40.png build/emulator/HelloWorld.app/icon-40.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/icons/icon-40.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app36"C2672505-BA69-4D6E-9B68-F2A38A3F9B70-
+b1187E77C-7523-497B-A9A9-93D2CEC95C7A
+
+CCpResource HelloWorld/Resources/icons/icon-40@2x.png build/emulator/HelloWorld.app/icon-40@2x.png
+s420609931.259280
+e420609931.260480
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-40@2x.png
+xbuild/emulator/HelloWorld.app/icon-40@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/HelloWorld.app/icon-40@2x.png105"[1mCpResource[0m HelloWorld/Resources/icons/icon-40@2x.png build/emulator/HelloWorld.app/icon-40@2x.png1d73428bff11b941^deaf428bff11b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/icon-40@2x.png00340070ddffdf42^655"[1mCpResource[0m HelloWorld/Resources/icons/icon-40@2x.png build/emulator/HelloWorld.app/icon-40@2x.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/icons/icon-40@2x.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app36"A1E0D497-1235-445D-BCE3-6AB114D48223-
+b1187E77C-7523-497B-A9A9-93D2CEC95C7A
+
+CCpResource HelloWorld/Resources/icons/icon-50.png build/emulator/HelloWorld.app/icon-50.png
+s420609931.265545
+e420609931.266776
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-50.png
+xbuild/emulator/HelloWorld.app/icon-50.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/HelloWorld.app/icon-50.png99"[1mCpResource[0m HelloWorld/Resources/icons/icon-50.png build/emulator/HelloWorld.app/icon-50.png711c448bff11b941^a452448bff11b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/icon-50.png00340070ddffdf42^646"[1mCpResource[0m HelloWorld/Resources/icons/icon-50.png build/emulator/HelloWorld.app/icon-50.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/icons/icon-50.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app36"7352FBA6-ECDF-4BA7-9BFF-91A78A526A1B-
+b1187E77C-7523-497B-A9A9-93D2CEC95C7A
+
+CCpResource HelloWorld/Resources/icons/icon-50@2x.png build/emulator/HelloWorld.app/icon-50@2x.png
+s420609931.341422
+e420609931.342101
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-50@2x.png
+xbuild/emulator/HelloWorld.app/icon-50@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/HelloWorld.app/icon-50@2x.png105"[1mCpResource[0m HelloWorld/Resources/icons/icon-50@2x.png build/emulator/HelloWorld.app/icon-50@2x.png4774578bff11b941^6494578bff11b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/icon-50@2x.png00340070ddffdf42^655"[1mCpResource[0m HelloWorld/Resources/icons/icon-50@2x.png build/emulator/HelloWorld.app/icon-50@2x.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/icons/icon-50@2x.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app36"C7D597C0-7670-47FB-A55A-FB4E780AB7F4-
+b1187E77C-7523-497B-A9A9-93D2CEC95C7A
+
+CCpResource HelloWorld/Resources/icons/icon-60.png build/emulator/HelloWorld.app/icon-60.png
+s420609931.339037
+e420609931.339661
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-60.png
+xbuild/emulator/HelloWorld.app/icon-60.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/HelloWorld.app/icon-60.png99"[1mCpResource[0m HelloWorld/Resources/icons/icon-60.png build/emulator/HelloWorld.app/icon-60.png4dd8568bff11b941^49f4568bff11b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/icon-60.png00340070ddffdf42^646"[1mCpResource[0m HelloWorld/Resources/icons/icon-60.png build/emulator/HelloWorld.app/icon-60.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/icons/icon-60.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app36"BE62ABDC-B578-4601-9972-FBA967736A10-
+b1187E77C-7523-497B-A9A9-93D2CEC95C7A
+
+CCpResource HelloWorld/Resources/icons/icon-60@2x.png build/emulator/HelloWorld.app/icon-60@2x.png
+s420609931.267008
+e420609931.268184
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-60@2x.png
+xbuild/emulator/HelloWorld.app/icon-60@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/HelloWorld.app/icon-60@2x.png105"[1mCpResource[0m HelloWorld/Resources/icons/icon-60@2x.png build/emulator/HelloWorld.app/icon-60@2x.png4d6a448bff11b941^25b1448bff11b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/icon-60@2x.png00340070ddffdf42^655"[1mCpResource[0m HelloWorld/Resources/icons/icon-60@2x.png build/emulator/HelloWorld.app/icon-60@2x.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/icons/icon-60@2x.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app36"2D1C6CDE-3A9F-40D0-B0EE-0C1CED30AFB0-
+b1187E77C-7523-497B-A9A9-93D2CEC95C7A
+
+CCpResource HelloWorld/Resources/icons/icon-72.png build/emulator/HelloWorld.app/icon-72.png
+s420609931.260969
+e420609931.262503
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-72.png
+xbuild/emulator/HelloWorld.app/icon-72.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/HelloWorld.app/icon-72.png99"[1mCpResource[0m HelloWorld/Resources/icons/icon-72.png build/emulator/HelloWorld.app/icon-72.png7ee0428bff11b941^6138438bff11b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/icon-72.png00340070ddffdf42^646"[1mCpResource[0m HelloWorld/Resources/icons/icon-72.png build/emulator/HelloWorld.app/icon-72.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/icons/icon-72.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app36"6D23C5D9-C222-4AA9-A7F3-7430A7F7D669-
+b1187E77C-7523-497B-A9A9-93D2CEC95C7A
+
+CCpResource HelloWorld/Resources/icons/icon-72@2x.png build/emulator/HelloWorld.app/icon-72@2x.png
+s420609931.343069
+e420609931.343939
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-72@2x.png
+xbuild/emulator/HelloWorld.app/icon-72@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/HelloWorld.app/icon-72@2x.png105"[1mCpResource[0m HelloWorld/Resources/icons/icon-72@2x.png build/emulator/HelloWorld.app/icon-72@2x.png76e1578bff11b941^f112588bff11b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/icon-72@2x.png00340070ddffdf42^655"[1mCpResource[0m HelloWorld/Resources/icons/icon-72@2x.png build/emulator/HelloWorld.app/icon-72@2x.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/icons/icon-72@2x.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app36"B65AE970-87A6-4EFA-8E60-6EE8DD00E9F5-
+b1187E77C-7523-497B-A9A9-93D2CEC95C7A
+
+CCpResource HelloWorld/Resources/icons/icon-76.png build/emulator/HelloWorld.app/icon-76.png
+s420609931.258829
+e420609931.260507
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-76.png
+xbuild/emulator/HelloWorld.app/icon-76.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/HelloWorld.app/icon-76.png99"[1mCpResource[0m HelloWorld/Resources/icons/icon-76.png build/emulator/HelloWorld.app/icon-76.pnge355428bff11b941^89b3428bff11b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/icon-76.png00340070ddffdf42^646"[1mCpResource[0m HelloWorld/Resources/icons/icon-76.png build/emulator/HelloWorld.app/icon-76.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/icons/icon-76.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app36"73E66BE7-270D-4115-BE43-C1844536E31A-
+b1187E77C-7523-497B-A9A9-93D2CEC95C7A
+
+CCpResource HelloWorld/Resources/icons/icon-76@2x.png build/emulator/HelloWorld.app/icon-76@2x.png
+s420609931.342241
+e420609931.342903
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-76@2x.png
+xbuild/emulator/HelloWorld.app/icon-76@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/HelloWorld.app/icon-76@2x.png105"[1mCpResource[0m HelloWorld/Resources/icons/icon-76@2x.png build/emulator/HelloWorld.app/icon-76@2x.pngdeaa578bff11b941^15c9578bff11b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/icon-76@2x.png00340070ddffdf42^655"[1mCpResource[0m HelloWorld/Resources/icons/icon-76@2x.png build/emulator/HelloWorld.app/icon-76@2x.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/icons/icon-76@2x.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app36"62A3977F-7A7B-4B54-9339-17A90560531B-
+b1187E77C-7523-497B-A9A9-93D2CEC95C7A
+
+CCpResource HelloWorld/Resources/icons/icon-small.png build/emulator/HelloWorld.app/icon-small.png
+s420609931.299717
+e420609931.301077
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-small.png
+xbuild/emulator/HelloWorld.app/icon-small.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/HelloWorld.app/icon-small.png105"[1mCpResource[0m HelloWorld/Resources/icons/icon-small.png build/emulator/HelloWorld.app/icon-small.png81ce4c8bff11b941^1e1b4d8bff11b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/icon-small.png00340070ddffdf42^655"[1mCpResource[0m HelloWorld/Resources/icons/icon-small.png build/emulator/HelloWorld.app/icon-small.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/icons/icon-small.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app36"07EF5FBB-5F00-48FC-94E3-B1E6BBC252C7-
+b1187E77C-7523-497B-A9A9-93D2CEC95C7A
+
+CCpResource HelloWorld/Resources/icons/icon-small@2x.png build/emulator/HelloWorld.app/icon-small@2x.png
+s420609931.334881
+e420609931.336050
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-small@2x.png
+xbuild/emulator/HelloWorld.app/icon-small@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy build/emulator/HelloWorld.app/icon-small@2x.png111"[1mCpResource[0m HelloWorld/Resources/icons/icon-small@2x.png build/emulator/HelloWorld.app/icon-small@2x.pnge3c6558bff11b941^2904568bff11b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/icon-small@2x.png00340070ddffdf42^664"[1mCpResource[0m HelloWorld/Resources/icons/icon-small@2x.png build/emulator/HelloWorld.app/icon-small@2x.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/icons/icon-small@2x.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app36"0D50B182-4392-4966-B515-DAB03560F906-
+b1187E77C-7523-497B-A9A9-93D2CEC95C7A
+
+CCpResource HelloWorld/Resources/icons/icon.png build/emulator/HelloWorld.app/icon.png
+s420609931.261382
+e420609931.262473
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon.png
+xbuild/emulator/HelloWorld.app/icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy build/emulator/HelloWorld.app/icon.png93"[1mCpResource[0m HelloWorld/Resources/icons/icon.png build/emulator/HelloWorld.app/icon.png11fd428bff11b941^5932438bff11b941^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/icon.png00340070ddffdf42^637"[1mCpResource[0m HelloWorld/Resources/icons/icon.png build/emulator/HelloWorld.app/icon.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/icons/icon.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app36"D916C856-11AD-4FE8-BF16-753F8D07C7DC-
+b1187E77C-7523-497B-A9A9-93D2CEC95C7A
+
+CCpResource HelloWorld/Resources/icons/icon@2x.png build/emulator/HelloWorld.app/icon@2x.png
+s420609931.262949
+e420609931.264585
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon@2x.png
+xbuild/emulator/HelloWorld.app/icon@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/HelloWorld.app/icon@2x.png99"[1mCpResource[0m HelloWorld/Resources/icons/icon@2x.png build/emulator/HelloWorld.app/icon@2x.png7e6f438bff11b941^23be438bff11b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/icon@2x.png00340070ddffdf42^646"[1mCpResource[0m HelloWorld/Resources/icons/icon@2x.png build/emulator/HelloWorld.app/icon@2x.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/icons/icon@2x.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app36"8859D912-601A-4766-8D7A-70A4174BD206-
+b1187E77C-7523-497B-A9A9-93D2CEC95C7A
+
+CCpResource HelloWorld/Resources/splash/Default-568h@2x~iphone.png build/emulator/HelloWorld.app/Default-568h@2x~iphone.png
+s420609931.340627
+e420609931.341313
+r1
+xCpResource
+xHelloWorld/Resources/splash/Default-568h@2x~iphone.png
+xbuild/emulator/HelloWorld.app/Default-568h@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/emulator/HelloWorld.app/Default-568h@2x~iphone.png130"[1mCpResource[0m HelloWorld/Resources/splash/Default-568h@2x~iphone.png build/emulator/HelloWorld.app/Default-568h@2x~iphone.pngea3f578bff11b941^2461578bff11b941^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/Default-568h@2x~iphone.png00340070ddffdf42^693"[1mCpResource[0m HelloWorld/Resources/splash/Default-568h@2x~iphone.png build/emulator/HelloWorld.app/Default-568h@2x~iphone.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/splash/Default-568h@2x~iphone.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app36"17BB38DE-4E6A-45CE-9505-BB0FD6471E71-
+b1187E77C-7523-497B-A9A9-93D2CEC95C7A
+
+CCpResource HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png
+s420609931.301470
+e420609931.332429
+r1
+xCpResource
+xHelloWorld/Resources/splash/Default-Landscape@2x~ipad.png
+xbuild/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy build/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png136"[1mCpResource[0m HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png0c3e4d8bff11b941^4f23558bff11b941^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png00340070ddffdf42^702"[1mCpResource[0m HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app36"52213022-5F86-4989-8085-2850134F8C50-
+b1187E77C-7523-497B-A9A9-93D2CEC95C7A
+
+CCpResource HelloWorld/Resources/splash/Default-Landscape~ipad.png build/emulator/HelloWorld.app/Default-Landscape~ipad.png
+s420609931.332603
+e420609931.333640
+r1
+xCpResource
+xHelloWorld/Resources/splash/Default-Landscape~ipad.png
+xbuild/emulator/HelloWorld.app/Default-Landscape~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/emulator/HelloWorld.app/Default-Landscape~ipad.png130"[1mCpResource[0m HelloWorld/Resources/splash/Default-Landscape~ipad.png build/emulator/HelloWorld.app/Default-Landscape~ipad.png5036558bff11b941^be66558bff11b941^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/Default-Landscape~ipad.png00340070ddffdf42^693"[1mCpResource[0m HelloWorld/Resources/splash/Default-Landscape~ipad.png build/emulator/HelloWorld.app/Default-Landscape~ipad.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/splash/Default-Landscape~ipad.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app36"7F89CC8A-34BC-4725-8389-ABB8D6A049BC-
+b1187E77C-7523-497B-A9A9-93D2CEC95C7A
+
+CCpResource HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png
+s420609931.333807
+e420609931.334775
+r1
+xCpResource
+xHelloWorld/Resources/splash/Default-Portrait@2x~ipad.png
+xbuild/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png134"[1mCpResource[0m HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png1781558bff11b941^abcb558bff11b941^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png00340070ddffdf42^699"[1mCpResource[0m HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app36"09459151-77B6-4C9E-98B2-25FF004AFB88-
+b1187E77C-7523-497B-A9A9-93D2CEC95C7A
+
+CCpResource HelloWorld/Resources/splash/Default-Portrait~ipad.png build/emulator/HelloWorld.app/Default-Portrait~ipad.png
+s420609931.336169
+e420609931.337245
+r1
+xCpResource
+xHelloWorld/Resources/splash/Default-Portrait~ipad.png
+xbuild/emulator/HelloWorld.app/Default-Portrait~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/emulator/HelloWorld.app/Default-Portrait~ipad.png128"[1mCpResource[0m HelloWorld/Resources/splash/Default-Portrait~ipad.png build/emulator/HelloWorld.app/Default-Portrait~ipad.png3f1e568bff11b941^2157568bff11b941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/Default-Portrait~ipad.png00340070ddffdf42^690"[1mCpResource[0m HelloWorld/Resources/splash/Default-Portrait~ipad.png build/emulator/HelloWorld.app/Default-Portrait~ipad.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/splash/Default-Portrait~ipad.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app36"58F1DCBF-6B11-4FC3-8595-2D92D4BB411C-
+b1187E77C-7523-497B-A9A9-93D2CEC95C7A
+
+CCpResource HelloWorld/Resources/splash/Default@2x~iphone.png build/emulator/HelloWorld.app/Default@2x~iphone.png
+s420609931.338179
+e420609931.338896
+r1
+xCpResource
+xHelloWorld/Resources/splash/Default@2x~iphone.png
+xbuild/emulator/HelloWorld.app/Default@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/emulator/HelloWorld.app/Default@2x~iphone.png120"[1mCpResource[0m HelloWorld/Resources/splash/Default@2x~iphone.png build/emulator/HelloWorld.app/Default@2x~iphone.png90a2568bff11b941^16c2568bff11b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/Default@2x~iphone.png00340070ddffdf42^678"[1mCpResource[0m HelloWorld/Resources/splash/Default@2x~iphone.png build/emulator/HelloWorld.app/Default@2x~iphone.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/splash/Default@2x~iphone.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app36"64E062E2-2A4D-4ACF-A446-2BDF849EA200-
+b1187E77C-7523-497B-A9A9-93D2CEC95C7A
+
+CCpResource HelloWorld/Resources/splash/Default~iphone.png build/emulator/HelloWorld.app/Default~iphone.png
+s420609931.339770
+e420609931.340455
+r1
+xCpResource
+xHelloWorld/Resources/splash/Default~iphone.png
+xbuild/emulator/HelloWorld.app/Default~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/emulator/HelloWorld.app/Default~iphone.png114"[1mCpResource[0m HelloWorld/Resources/splash/Default~iphone.png build/emulator/HelloWorld.app/Default~iphone.png0308578bff11b941^b728578bff11b941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/Default~iphone.png00340070ddffdf42^669"[1mCpResource[0m HelloWorld/Resources/splash/Default~iphone.png build/emulator/HelloWorld.app/Default~iphone.png    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/Resources/splash/Default~iphone.png /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app36"C25C9045-BF57-4F1C-8A71-99D58D1EF904-
+b1187E77C-7523-497B-A9A9-93D2CEC95C7A
+
+CGenerateDSYMFile /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app.dSYM /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/HelloWorld
+s420609957.788139
+e420609957.901258
+r1
+xGenerateDSYMFile
+x/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app.dSYM
+x/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/HelloWorld
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Generate /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app.dSYM108"[1mGenerateDSYMFile[0m [1mbuild/emulator/HelloWorld.app.dSYM[0m build/emulator/HelloWorld.app/HelloWorld35d3c9a5ff11b941^a1b9e6a5ff11b941^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app.dSYM00340070ddffdf42^653"[1mGenerateDSYMFile[0m [1mbuild/emulator/HelloWorld.app.dSYM[0m build/emulator/HelloWorld.app/HelloWorld    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/HelloWorld -o /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app.dSYM36"578CF672-50EB-42F3-ABFB-6053C33FF791-
+b1187E77C-7523-497B-A9A9-93D2CEC95C7A
+
+CLd /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/HelloWorld normal i386
+s420609955.309800
+e420609957.787072
+r1
+xLd
+x/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/HelloWorld
+xnormal
+xi386
+d/Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList
+d/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/libCordova.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
+d/Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o
+d/Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Link /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/HelloWorld63"[1mLd[0m build/emulator/HelloWorld.app/HelloWorld normal i3864e634fa3ff11b941^567ec9a5ff11b941^---0#0#1#--1686"[1mLd[0m build/emulator/HelloWorld.app/HelloWorld normal i386    cd /Users/Chris/Sites/foodmood/platforms/ios    export IPHONEOS_DEPLOYMENT_TARGET=6.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/Chris/Sites/foodmood/platforms/ios/build/emulator -F/Users/Chris/Sites/foodmood/platforms/ios/build/emulator -filelist /Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/libCordova.a -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework AssetsLibrary /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/libCordova.a -framework CoreGraphics -framework MobileCoreServices -framework CoreLocation -Xlinker -dependency_info -Xlinker /Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld_dependency_info.dat -o /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/HelloWorld36"3E897446-B92D-4854-8AC7-1BDB839104E6-
+b1187E77C-7523-497B-A9A9-93D2CEC95C7A
+
+CPhaseScriptExecution Copy\ www\ directory /Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh
+s420609930.834208
+e420609931.258245
+r1
+xPhaseScriptExecution
+xCopy www directory
+x/Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh
+o
+oreal	0m0.387s
+ouser	0m0.074s
+osys	0m0.117s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'146"[1mPhaseScriptExecution[0m Copy\ www\ directory build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh7afdd58aff11b941^1420428bff11b941^-42"real	0m0.387suser	0m0.074ssys	0m0.117s3(21%IDEActivityLogMessage2@14"real	0m0.387s-420609931#1#14#-0#-----2@14"user	0m0.074s-420609931#15#14#-0#-----2@13"sys	0m0.117s-420609931#29#13#-0#-----0#0#1#--350"[1mPhaseScriptExecution[0m Copy\ www\ directory build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh    cd /Users/Chris/Sites/foodmood/platforms/ios    /bin/sh -c /Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh36"A9E46B50-DB36-46DB-97B4-8F53109994E5-
+b1187E77C-7523-497B-A9A9-93D2CEC95C7A
+
+CProcessInfoPlistFile /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/Info.plist /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/HelloWorld-Info.plist
+s420609930.827460
+e420609930.832829
+r1
+xProcessInfoPlistFile
+x/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/Info.plist
+x/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/HelloWorld-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Process /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/HelloWorld-Info.plist110"[1mProcessInfoPlistFile[0m build/emulator/HelloWorld.app/Info.plist [1mHelloWorld/HelloWorld-Info.plist[0mc4ead38aff11b941^6345d58aff11b941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/HelloWorld-Info.plist0000000000000000^736"[1mProcessInfoPlistFile[0m build/emulator/HelloWorld.app/Info.plist [1mHelloWorld/HelloWorld-Info.plist[0m    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    builtin-infoPlistUtility /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/HelloWorld-Info.plist -genpkginfo /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app/Info.plist36"9533B607-55CD-4377-88E0-E15FAE715DA4-
+b1187E77C-7523-497B-A9A9-93D2CEC95C7A
+
+CProcessPCH /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-hiaiwqmjoqvkgpchcjuauuhflwvs/HelloWorld-Prefix.pch.pch HelloWorld/HelloWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420609954.647938
+e420609955.171262
+r1
+xProcessPCH
+x/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-hiaiwqmjoqvkgpchcjuauuhflwvs/HelloWorld-Prefix.pch.pch
+xHelloWorld/HelloWorld-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/HelloWorld-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile HelloWorld/HelloWorld-Prefix.pch310"[1mProcessPCH[0m /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-hiaiwqmjoqvkgpchcjuauuhflwvs/HelloWorld-Prefix.pch.pch HelloWorld/HelloWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1afca5a2ff11b941^aed82ba3ff11b941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/HelloWorld-Prefix.pch0000000000000000^3730"[1mProcessPCH[0m /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-hiaiwqmjoqvkgpchcjuauuhflwvs/HelloWorld-Prefix.pch.pch HelloWorld/HelloWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Chris/Sites/foodmood/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=162 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -I/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/include -I/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Chris/Sites/foodmood/platforms/ios/build/UninstalledProducts/include -I/Users/Chris/Sites/foodmood/platforms/ios/build/emulator -I/Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/Chris/Sites/foodmood/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/Chris/Sites/foodmood/platforms/ios/build/emulator --serialize-diagnostics /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-hiaiwqmjoqvkgpchcjuauuhflwvs/HelloWorld-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-hiaiwqmjoqvkgpchcjuauuhflwvs/HelloWorld-Prefix.pch.d -c /Users/Chris/Sites/foodmood/platforms/ios/HelloWorld/HelloWorld-Prefix.pch -o /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-hiaiwqmjoqvkgpchcjuauuhflwvs/HelloWorld-Prefix.pch.pch36"E9E488C3-0DAE-4481-8DA1-4308F9D0A845-
+b1187E77C-7523-497B-A9A9-93D2CEC95C7A
+
+CTouch /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app
+s420609957.902831
+e420609957.932579
+r1
+xTouch
+x/Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Touch /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app43"[1mTouch[0m build/emulator/HelloWorld.app342fe7a5ff11b941^bebeeea5ff11b941^---0#0#1#--419"[1mTouch[0m build/emulator/HelloWorld.app    cd /Users/Chris/Sites/foodmood/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Chris/.ec2/bin"    /usr/bin/touch -c /Users/Chris/Sites/foodmood/platforms/ios/build/emulator/HelloWorld.app36"4E570D9F-BA40-4735-A0FD-05D18FAC655C-
+b1187E77C-7523-497B-A9A9-93D2CEC95C7A
+
