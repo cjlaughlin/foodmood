@@ -1,0 +1,26 @@
+*, *:before, *:after {
+  -webkit-box-sizing: border-box; 
+  -moz-box-sizing: border-box; 
+  box-sizing: border-box;
+}
+
+
+body{
+	margin: 0;
+	padding: 0;
+}
+
+
+#view div{
+	width: 99%;
+	text-align: center;
+	line-height: 4em;
+	font-family: "Arial", sans-serif;
+	font-weight: bold;
+	font-size: 24pt;
+	color: white;
+	background: crimson;
+	margin: 5px;
+
+
+}

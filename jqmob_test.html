@@ -1,0 +1,135 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<!-- load jQuery, which you have to load with jQuery mobile -->
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<!-- load jQuery mobile -->
+		<!-- <script src="http://ajax.googleapis.com/ajax/libs/jquerymobile/1.4.2/jquery.mobile.min.js"></script> -->
+		<!-- load firebase -->
+		<script src='https://cdn.firebase.com/js/client/1.0.11/firebase.js'></script> 
+		<!-- load css -->
+		<link rel="stylesheet" type="text/css" href="jqmob_test.css">
+	</head>
+
+	<body>
+		<script>
+			//point to my firebase, call it fm
+			var fm = new Firebase('https://foodmood.firebaseio.com/');
+
+			//Listens for exactly one event of the specified event type, and then stops listening. This is equivalent to calling “on”, and then calling “off” inside the callback function.
+			//The 'value' event is used to read the entire contents of a Firebase location. It is triggered once with the initial data and again every time the data changes
+			fm.once('value', function(dataSnapshot) {
+
+				// store dataSnapshot for use in below examples.
+				fmSnapshot = dataSnapshot;
+
+				// Once you have a snapshot, you can extract its entire contents as a Javascript object with val()
+				// fmTree will now contain the whole firebase db
+				FMtree = fmSnapshot.val();
+
+
+
+			    function iterate(obj, stack) {
+			    	//for every property in the parent object
+			        for (var property in obj) {
+			        	//if it has children, whether objects or jut key: values
+			            if (obj.hasOwnProperty(property)) {
+			            	//if it has an object as a property
+			                if (typeof obj[property] == "object") {
+			                	//if it's food or mood, add it to view
+			                	if ((property == "Food") || (property == "Mood")){
+			                		address =  stack + '.' + property
+									$('#view').append($("<div/>").text(property).attr('id', address).addClass(".root"));
+				                    iterate(obj[property], stack + '.' + property);
+			                	} else {
+			                	//if its anything besides Food or Mood
+				                	address = stack + '.' + property
+
+				                	// stack: .Food.Meat.chicken
+				                	//catArray =  stack.split(".");
+				                	//category = catArray[((catArray.length) - 1)];
+				                	category = stack
+
+									$('#view').append($("<div/>").text(property).attr('id', address).addClass(category).hide());
+									//create a tree
+									// $("div [id='" + stack + "']").append($("<div/>").text(property).attr('id', address).hide());
+				                    iterate(obj[property], stack + '.' + property);
+			                	}
+			                }
+			            }
+			        }
+			    }
+
+				iterate(FMtree, '')
+
+
+				$("#view div").on('click', function(event){
+					event.stopPropagation();
+					// count = this.id.length() - this.text().length() + 1
+
+					// parent = this.id.slice(0, count)
+
+					finder = this.id;
+					classy = $(this).attr('class');
+					$("div [class='" + classy + "']").hide();
+					$("div [class='" + (this.id) + "']").show();
+					$(this).hide();
+
+				});
+					// 	console.log(newDiv.id)
+
+
+				// go through each first-level child of fmTree and make a DIV for each one
+				// $.each(fmTree, function(key, value){
+					// //create a div
+					// var newDiv = document.createElement( "div" );
+					// //make the id be the key of the child from the fmTree
+					// newDiv.id = key;
+					// //add the key name to the text of the div
+					// newDiv.innerText = key;
+					// console.log($(newDiv).parent())
+					// //now that the div is ready, add it to the view
+					// $('#view').append(newDiv);
+					// //assign a click handler to it
+					// $(newDiv).on('click', function(){
+					// 	console.log(newDiv.id)
+					// 	//check if this thing, in the tree, has children
+						
+
+					// 	//if it has children, make divs for them
+
+					// 	//hide the parents
+					// 	$(this).parent().children().hide();
+
+					// 	//add the kids
+
+					// 	//---------
+
+					// //go through all the children of fmTree
+					// //give them an id of "fmTree." + key
+					// //make a div for them
+					// //add that div to the #view
+					// //run the child checker / maker
+
+					// //if they have children
+					// 	//run a function to:
+					// 		//check if they have children
+					// 		//if they have children
+					// 		//make them a div
+					// 		//give them their parents id + key
+
+					// });
+				// });
+
+				
+
+
+			});
+		</script>
+
+		<div id="view"></div>
+	</body>
+
+	</html>
+
